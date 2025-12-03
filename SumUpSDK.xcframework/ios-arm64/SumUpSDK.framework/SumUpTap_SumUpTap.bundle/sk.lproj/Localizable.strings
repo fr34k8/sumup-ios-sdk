@@ -143,7 +143,7 @@
 "sumup_tap_not_allowed_during_call" = "Ak chceš používať funkciu Tap to Pay na iPhone, ukonči všetky telefonické hovory.";
 
 /* title for the Stories component for Tap on phone */
-"sumup_tap_on_phone_android_landing_stories_screen_title" = "SumUp Tap to Pay on Android";
+"sumup_tap_on_phone_android_landing_stories_screen_title" = "SumUp Tap to Pay pre Android";
 
 "sumup_tap_on_phone_android_version_success_title" = "Android version";
 
@@ -212,43 +212,43 @@
 "sumup_tap_on_phone_google_services_title" = "Google services";
 
 /* Title for the Stories component for Tap to Pay on iPhone */
-"sumup_tap_on_phone_ios_landing_stories_screen_title" = "SumUp Tap to Pay on iPhone";
+"sumup_tap_on_phone_ios_landing_stories_screen_title" = "SumUp Tap to Pay na iPhone";
 
 /* subtitle for Stories TTP component page two */
-"sumup_tap_on_phone_ios_landing_stories_slide_1_subtitle" = "Accept in-person, contactless payments right on your iPhone — no extra card readers or hardware needed.";
+"sumup_tap_on_phone_ios_landing_stories_slide_1_subtitle" = "Môžeš prijímať všetky typy bezkontaktných platieb priamo cez svoj iPhone a nepotrebuješ žiadne ďalšie terminály ani iné zariadenia.";
 
 /* title for Stories TTP component page one */
-"sumup_tap_on_phone_ios_landing_stories_slide_1_title" = "Accept payments on your iPhone";
+"sumup_tap_on_phone_ios_landing_stories_slide_1_title" = "Prijímaj platby pomocou svojho iPhonu";
 
 /* subtitle for Stories TTP component page two */
-"sumup_tap_on_phone_ios_landing_stories_slide_2_subtitle" = "With no binding contracts or monthly fees, you only pay a small SumUp transaction fee of %1$@ on each payment you accept with your iPhone.";
+"sumup_tap_on_phone_ios_landing_stories_slide_2_subtitle" = "Zabudni na mesačné poplatky a zmluvnú viazanosť. Pri prijatí platby pomocou smartfónu budeš platiť iba transakčný poplatok vo výške 1,95 %%.";
 
 /* subtitle for Stories TTP component page four */
-"sumup_tap_on_phone_ios_landing_stories_slide_3_subtitle" = "By downloading the SumUp app and following a few simple steps, you’ll be ready to start taking payments with your iPhone in minutes.";
+"sumup_tap_on_phone_ios_landing_stories_slide_3_subtitle" = "Chceš prijímať platby pomocou svojho smartfónu? V tom prípade stačí, aby si si stiahol aplikáciu SumUp a postupoval podľa príslušných inštrukcií. Celý proces ti zaberie iba pár minút.";
 
 /* subtitle for Stories TTP component page four */
 "sumup_tap_on_phone_ios_landing_stories_slide_4_subtitle" = "Pay a small SumUp transaction fee of 1.69% for each payment you take with your iPhone.";
 
 /* title for the Stories component CTA button for Tap on phone */
-"sumup_tap_on_phone_landing_stories_action_button_title" = "Enable now";
+"sumup_tap_on_phone_landing_stories_action_button_title" = "Povoliť teraz";
 
 /* subtitle for Stories component page two */
-"sumup_tap_on_phone_landing_stories_slide_1_subtitle" = "Accept in-person, contactless payments right on your smartphone — no extra card readers or hardware needed.";
+"sumup_tap_on_phone_landing_stories_slide_1_subtitle" = "Zabudni na terminál alebo iný dodatočný hardvér. Bezkontaktné platby môžeš prijímať aj pomocou svojho smartfónu.";
 
 /* title for Stories component page one */
-"sumup_tap_on_phone_landing_stories_slide_1_title" = "Accept payments on your smartphone";
+"sumup_tap_on_phone_landing_stories_slide_1_title" = "Začni prijímať platby pomocou svojho smartfónu";
 
 /* subtitle for Stories component page two */
-"sumup_tap_on_phone_landing_stories_slide_2_subtitle" = "With no binding contracts or monthly fees, you only pay a small SumUp transaction fee of %1$@ on each payment you accept with your smartphone.";
+"sumup_tap_on_phone_landing_stories_slide_2_subtitle" = "Zabudni na mesačné poplatky a zmluvnú viazanosť. Pri prijatí platby pomocou smartfónu budeš platiť iba transakčný poplatok vo výške 1,95 %%.";
 
 /* title for Stories component page two */
-"sumup_tap_on_phone_landing_stories_slide_2_title" = "Free to activate, no binding contract";
+"sumup_tap_on_phone_landing_stories_slide_2_title" = "Aktivácia zdarma bez zmluvnej viazanosti";
 
 /* subtitle for Stories component page three */
-"sumup_tap_on_phone_landing_stories_slide_3_subtitle" = "By downloading the SumUp app and following a few simple steps, you’ll be ready to start taking payments with your smartphone in minutes.";
+"sumup_tap_on_phone_landing_stories_slide_3_subtitle" = "Chceš prijímať platby pomocou svojho smartfónu? V tom prípade stačí, aby si si stiahol aplikáciu SumUp a postupoval podľa príslušných inštrukcií. Celý proces ti zaberie iba pár minút.";
 
 /* title for Stories component page three */
-"sumup_tap_on_phone_landing_stories_slide_3_title" = "Start taking payments instantly";
+"sumup_tap_on_phone_landing_stories_slide_3_title" = "Začni prijímať platby ešte dnes";
 
 /* subtitle for Stories component page four */
 "sumup_tap_on_phone_landing_stories_slide_4_subtitle" = "Pay a small SumUp transaction fee of 1.69% for each payment you take with your Android phone.";
@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Funkciu Tap to Pay môžete aktivovať teraz alebo ju môžete aktivovať neskôr vo svojom SumUp profile.";
 
+"sumup_tap_or_insert_card" = "Priložte alebo vložte kartu";
+
 "sumup_tap_os_check_alert_message" = "Ak chceš používať túto funkciu, musíš mať operačný systém iOS %1$@ alebo novší.";
 
 "sumup_tap_os_check_alert_settings_button" = "Nastavenia";
@@ -386,6 +388,8 @@
 "sumup_tap_subaccount_check_alert_message" = "Nanešťastie, cez svoj zamestnanecký účet nemôžete aktivovať Tap to Pay.\n\nProsím, kontaktujte hlavného vlastníka SumUp účtu, aby ju aktivoval a skúste to znovu.";
 
 "sumup_tap_subaccount_check_alert_title" = "Nie je možné aktivovať cez zamestnanecký účet.";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Obchodné podmienky už boli odsúhlasené";
 

@@ -124,6 +124,21 @@ NS_SWIFT_NAME(SumUpSDK)
                  completion:(nullable SMPCheckoutCompletionBlock)block;
 
 /**
+ *  Presenting card reader settings allows the current merchant to switch to a different
+ *  card reader, view general information about the current card reader, and connect to it.
+ *  Can only be called when a merchant is logged in and checkout is not in progress.
+ *  The completion block will be executed once the screen has been dismissed.
+ *  If not successful an error will be provided, see SMPSumUpSDKError.
+ *
+ *  @param fromViewController The UIViewController instance from which the checkout should be presented modally.
+ *  @param animated           Pass YES to animate the transition.
+ *  @param block              The completion block is called after the view controller has been dismissed.
+ */
++ (void)presentCardReaderSettingsFromViewController:(UIViewController *)fromViewController
+                                           animated:(BOOL)animated
+                                         completion:(nullable SMPCompletionBlock)externalCompletionBlock;
+
+/**
  *  Presenting checkout preferences allows the current merchant to configure the checkout options and
  *  change the card terminal. Merchants can also set up the terminal when applicable.
  *  Can only be called when a merchant is logged in and checkout is not in progress.
@@ -137,7 +152,7 @@ NS_SWIFT_NAME(SumUpSDK)
  */
 + (void)presentCheckoutPreferencesFromViewController:(UIViewController *)fromViewController
                                             animated:(BOOL)animated
-                                          completion:(nullable SMPCompletionBlock)block;
+                                          completion:(nullable SMPCompletionBlock)block __attribute__((deprecated("Please use presentCardReaderSettingsFromViewController:animated:completion: instead")));
 
 #pragma mark - Tap to Pay on iPhone
 
@@ -187,17 +202,9 @@ NS_SWIFT_NAME(SumUpSDK)
                                     completionBlock:(nullable SMPCompletionBlock)block;
 
 /**
- *  Returns the lozalized Tap To Pay on iPhone string.
- *  For iOS versions less than 16.4, will return nil.
+ *  Returns the localized "Tap To Pay on iPhone" string.
  */
 + (NSString  * _Nonnull)tapToPayProductName;
-
-#pragma mark - Misc
-
-/**
- *  This method does not do anything. It will be removed in a future release.
- */
-+ (void)setUINotificationsForReaderStatusEnabled:(BOOL)enabled __attribute__ ((deprecated));
 
 #pragma mark - Error Domain and Codes
 

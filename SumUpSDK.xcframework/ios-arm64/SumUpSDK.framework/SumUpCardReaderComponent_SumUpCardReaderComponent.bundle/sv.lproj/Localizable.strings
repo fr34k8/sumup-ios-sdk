@@ -23,7 +23,7 @@
 "card_reader_setting_no_reader_cta_generic" = "Kom igång med kortbetalningar";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Kom igång med Solo";
+"card_reader_setting_no_reader_cta_model" = "Kom igång med SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Byt till en annan kortläsare";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Redo";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Enheten är i tillgänglighetsläge. Du kommer att guidas genom transaktionen.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Transaktionen gick inte igenom och kortet har inte debiterats. Försök igen.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Transaktionen gick inte igenom eftersom den angivna pinkoden inte stämmer. Försök igen.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Beloppet som ska betalas är %1$@ %2$@. För att betala ska du välja ett av de två följande alternativen. Om du vill göra en kontaktlös betalning ska du placera ditt kort på kortläsaren. Enheten kommer att pipa en gång när ditt kort känns igen. Du kan även betala genom att sätta i ditt kort med chipet först och framsidan vänd uppåt i kortläsarens övre del och följa de muntliga instruktionerna.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Du måste ange din pinkod. På framsidan av läsaren finns ett hölje med hål som hjälper dig att hitta rätt. Det finns tio hål för siffror och tre för funktioner. Tryck i dessa hål för att ange din kod. Ett pip kommer att höras efter varje siffra du matar in. De tre runda hålen för funktionsknapparna sitter i den högra kolumnen. Överst är knappen som avbryter betalningen. Nedanför denna finns knappen Rensa, som tar bort din senaste inmatning. Och nedanför den finns bekräftelseknappen. Siffrorna på knappsatsen är i de tre vänstra kolumnerna, som har fyrkantiga hål. Knappsatsen har samma layout som sifferknapparna på en telefon, med 1, 2 och 3 från vänster till höger högst upp. Ange din pinkod nu och tryck sedan på bekräftelseknappen.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Du måste ange din pinkod. På framsidan av läsaren finns ett hölje med hål som hjälper dig att hitta rätt. Det finns tio hål för siffror och tre för funktioner. Tryck i dessa hål för att ange din kod. Ett pip kommer att höras efter varje siffra du matar in. Den övre högra knappen avbryter betalningen. Nedanför finns siffrorna 1 till 9 i samma layout som sifferknapparna på en telefon, med tre rader och 1, 2 och 3 från vänster till höger högst upp. I den fjärde raden längst ner till vänster finns knappen ”Rensa”, som tar bort din senaste inmatning. Siffran noll är i mitten av denna rad, och bekräftelseknappen är till höger. Ange din pinkod nu och tryck sedan på bekräftelseknappen.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transaktionen har genomförts. Ta ut kortet.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Pinkoden stämmer inte. Försök igen.";
 

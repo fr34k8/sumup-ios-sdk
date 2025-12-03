@@ -1,5 +1,14 @@
 # SumUp iOS SDK Changelog
 
+## Version 6.2.0
+
+* [IMPROVEMENT] The tap-card screen now appears much faster when using Solo Lite and Solo card readers with updated firmware
+* [IMPROVEMENT] An issue was fixed that could cause Solo card readers to take longer when transacting when the reader is initially sleeping
+* [ADDED] A new `presentCardReaderSettingsFromViewController:animated:completion:` method and updated UI, replacing the old `presentCheckoutPreferencesFromViewController:animated:completion:` method, which is now deprecated.
+* [ADDED] The Tap to Pay on iPhone payment method now supports Croatia, Estonia, Latvia, Lithuania, Norway, Spain
+* [REMOVED] Minimum deployment target is now iOS 16 (was iOS 15)
+* [IMPROVEMENT] Miscellaneous bug fixes and enhancements
+
 ## Version 6.1.2
 
 * [FIXED] Now using the correct swift-tools-version version to support iOS 15. All changes mentioned in v6.1.1 are available in this release.

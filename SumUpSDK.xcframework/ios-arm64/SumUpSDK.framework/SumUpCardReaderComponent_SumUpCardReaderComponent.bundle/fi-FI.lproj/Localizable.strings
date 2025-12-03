@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Näytä maksutapana kassalla";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Korttimaksujen käytön aloittaminen";
+"card_reader_setting_no_reader_cta" = "Ota käyttöön korttimaksut";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Yhdistä kortinlukija";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Korttimaksujen käytön aloittaminen";
+"card_reader_setting_no_reader_cta_generic" = "Ota käyttöön korttimaksut";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Solo-kortinlukijan käytön aloittaminen";
+"card_reader_setting_no_reader_cta_model" = "Ota käyttöön SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Vaihda toiseen kortinlukijaan";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Valmis";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Laite on helppokäyttöisyystilassa. Saat ohjeita maksutapahtuman suorittamiseen.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Maksutapahtuma ei onnistunut, eikä korttia veloitettu. Yritä uudelleen.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Maksutapahtuma ei onnistunut, koska syötetty PIN-koodi oli väärä. Yritä uudelleen.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Maksettava summa on %1$@ %2$@. Maksa maksu valitsemalla jommallakummalla seuraavista maksutavoista. Jos haluat tehdä lähimaksun, aseta korttisi kortinlukijan päälle. Laitteesta kuuluu yksi äänimerkki, kun korttisi on tunnistettu. Tai maksa asettamalla korttisi siru edellä ja kuvapuoli ylöspäin lukijan päällä olevaan aukkoon ja seuraamalla ääniohjeita.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Sinun on annettava PIN-koodisi. Lukijan etupuolella on kansi, jossa on aukkoja. Numeroille on kymmenen aukkoa ja toiminnoille kolme. Syötä PIN-koodisi painamalla näitä aukkoja. Jokaista syöttämääsi numeroa seuraa äänimerkki. Toimintopainikkeiden kolme pyöreää aukkoa ovat oikeassa reunassa. Ylimpänä on painike, jolla maksu peruutetaan. Sen alapuolella on poistopainike, joka poistaa viimeisimmän syöttämäsi merkin. Ja sen alapuolella on vahvistuspainike. Näppäimistön numerot ovat kolmessa vasemmanpuoleisessa sarakkeessa, joissa on neliönmuotoiset aukot. Numeronäppäimistön asettelu vastaa puhelimen näppäimistöä. Yläreunassa ovat numerot 1, 2 ja 3 vasemmalta oikealle tässä järjestyksessä. Anna PIN-koodisi nyt ja paina sitten vahvistuspainiketta.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Sinun on annettava PIN-koodisi. Lukijan etupuolella on kansi, jossa on aukkoja. Numeroille on kymmenen aukkoa ja toiminnoille kolme. Syötä PIN-koodisi painamalla näitä aukkoja. Jokaista syöttämääsi numeroa seuraa äänimerkki. Oikeassa yläkulmassa oleva toimintopainike peruuttaa maksun. Sen alapuolella ovat numerot 1–9 puhelimen näppäimistöä vastaavassa järjestyksessä jaettuina kolmelle riville. Ensimmäisinä ylhäällä ovat 1, 2 ja 3 vasemmalta oikealle tässä järjestyksessä. 4. rivillä vasemmassa alakulmassa on poistopainike, joka poistaa viimeisimmän syöttämäsi merkin. Numero nolla on keskellä tätä riviä, ja vahvistuspainike on oikealla. Anna PIN-koodisi nyt ja paina sitten vahvistuspainiketta.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Maksutapahtuma onnistui. Poista kortti.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "PIN-koodi on väärä. Yritä uudelleen.";
 

@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Zapněte si Tap to Pay hned nebo to udělejte později ve svém profilu SumUp";
 
+"sumup_tap_or_insert_card" = "Přiložte nebo vložte kartu";
+
 "sumup_tap_os_check_alert_message" = "Chcete-li tuto funkci využívat, potřebujete iOS ve verzi %1$@ či vyšší";
 
 "sumup_tap_os_check_alert_settings_button" = "Nastavení";
@@ -386,6 +388,8 @@
 "sumup_tap_subaccount_check_alert_message" = "Váš Zaměstnanecký účet bohužel nemá oprávnění k aktivaci Tap to Pay.\n\nPožádejte hlavního vlastníka účtu SumUp o aktivaci a pak to zkuste znovu.";
 
 "sumup_tap_subaccount_check_alert_title" = "Nelze aktivovat jako Zaměstnanecký účet";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Podmínky poskytování služeb již byly přijaty";
 

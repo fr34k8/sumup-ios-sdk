@@ -222,3 +222,27 @@
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Ready";
 
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "The device is in accessibility mode. You'll be guided through the transaction.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "The transaction didn't go through, and the card was not charged. Please try again.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "The transaction didn't go through because the PIN entered was incorrect. Please try again.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "The amount due is %1$@ %2$@. To pay, choose one of the following two options. If you want to make a contactless payment, place your card on the card reader. The device will beep once when your card is recognised. Or pay by inserting your card chip-first and facing upwards into the slot on the top of the reader, and follow the spoken instructions.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "You will need to enter your PIN. On the front of the reader, there is a cover with holes to guide you. There are ten holes for digits and three for functions. Press into these holes to enter your PIN. A beep will follow each digit you enter. The three round holes for the function buttons are in the rightmost column. The top is the button that will cancel the payment. Below it is the clear button, which deletes your most recent entry. And below that is the confirm button. The numbers on the keypad are in the three leftmost columns, which have square holes. The keypad has a telephone layout, starting with 1, 2, and 3 from left to right at the top. Please enter your PIN now, then press the confirm button.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "You will need to enter your PIN. On the front of the reader, there is a cover with holes to guide you. There are ten holes for digits and three for functions. Press into these holes to enter your PIN. A beep will follow each digit you enter. The top-right button cancel the payment. Below it are the numbers 1 to 9 in a telephone layout of three rows, starting with 1, 2 and 3 from left to right at the top. In the 4th row at the bottom left is the clear button, which deletes your most recent entry. The number zero is at the centre of this row, and the confirm button is on the right. Please enter your PIN now, then press the confirm button.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "The transaction was successful. Please remove the card.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "The PIN is incorrect. Please try again.";
+

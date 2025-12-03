@@ -1,6 +1,72 @@
-"circuit_navigationHeader_backButton_title" = "Back";
+"circuit_navigationHeader_addButton_title" = "Toevoegen";
 
-"circuit_navigationHeader_cancelButton_title" = "Cancel";
+"circuit_navigationHeader_backButton_title" = "Terug";
 
-"circuit_navigationHeader_moreButton_title" = "More";
+"circuit_navigationHeader_cancelButton_title" = "Annuleren";
+
+"circuit_navigationHeader_chatButton_title" = "Chatten";
+
+"circuit_navigationHeader_closeButton_title" = "Sluiten";
+
+"circuit_navigationHeader_deleteButton_title" = "Verwijderen";
+
+"circuit_navigationHeader_discountButton_title" = "Korting toepassen";
+
+"circuit_navigationHeader_documentButton_title" = "Document";
+
+"circuit_navigationHeader_editButton_title" = "Edit";
+
+"circuit_navigationHeader_editCategoriesButton_title" = "Edit Categories";
+
+"circuit_navigationHeader_editCategories_title" = "Edit Categories";
+
+"circuit_navigationHeader_filterButton_title" = "Filteren";
+
+"circuit_navigationHeader_flashButton_off_title" = "Flash off";
+
+"circuit_navigationHeader_flashButton_on_title" = "Flash on";
+
+"circuit_navigationHeader_helpButton_title" = "Hulp";
+
+"circuit_navigationHeader_hideButton_title" = "Verbergen";
+
+"circuit_navigationHeader_inboxButton_title" = "Postvak IN";
+
+"circuit_navigationHeader_mailButton_title" = "Mail";
+
+"circuit_navigationHeader_minimizeButton_title" = "Minimaliseren";
+
+"circuit_navigationHeader_moreButton_title" = "Meer";
+
+"circuit_navigationHeader_printButton_title" = "Printen";
+
+"circuit_navigationHeader_refreshButton_title" = "Vernieuwen";
+
+"circuit_navigationHeader_reportButton_title" = "Rapport";
+
+"circuit_navigationHeader_saveButton_title" = "Opslaan";
+
+"circuit_navigationHeader_scanBarcodeButton_title" = "Scan Barcode";
+
+"circuit_navigationHeader_scanButton_title" = "Scan";
+
+"circuit_navigationHeader_scanQRCodeButton_title" = "Scan QR Code";
+
+"circuit_navigationHeader_searchButton_title" = "Zoek";
+
+"circuit_navigationHeader_settingsButton_title" = "Instellingen";
+
+"circuit_navigationHeader_shareButton_title" = "Delen";
+
+"circuit_navigationHeader_showButton_title" = "Weergeven";
+
+"circuit_segmentedProgressBar_progress_accessibility_label" = "Progress";
+
+"circuit_segmentedProgressBar_progress_accessibility_value" = "Step %1$d of %2$d";
+
+"circuit_spinner_loading_accessibility_label" = "Loading";
+
+"circuit_spinner_loading_accessibility_value" = "In Progress";
+
+"circuit_tierIndicator_plusTier_accessibilityLabel" = "Plus Tier";
 

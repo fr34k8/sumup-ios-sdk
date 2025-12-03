@@ -222,3 +222,27 @@
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Paruoštas";
 
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Įrenginys veikia asmenims su regos negalia pritaikytu režimu. Girdėsite nuoseklias instrukcijas mokėjimo operacijai atlikti.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Nepavyko apdoroti operacijos ir pinigai iš kortelės nenuskaityti. Pabandykite dar kartą.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Mokėjimo operacijos apdoroti nepavyko, nes įvestas neteisingas PIN kodas. Pabandykite dar kartą.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Mokėtina suma yra %1$@ %2$@. Mokėjimui atlikti, pasirinkite vieną iš dviejų būdų. Jei norite sumokėti bekontakčiu būdu, pridėkite kortelę ant kortelių skaitytuvo. Atpažinęs kortelę, įrenginys vieną kartą pyptelės. Arba atsiskaitykite įkišdami kortelę lustu žemyn į skaitytuvo viršuje esančią angą ir vykdykite žodinius nurodymus.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Turėsite įvesti kortelės PIN kodą. Priekinėje skaitytuvo dalyje yra dangtelis su įdubimais. 10 įdubimų skirti skaičiams įvesti, o trys – norimoms funkcijomis pasirinkti. Spausdami skaičių įdubimus, įveskite PIN kodą. Kaskart įvedę skaičių, girdėsite pyptelėjimą. Trys dešinėje vertikaliai išdėstyti apskriti įdubimai yra funkcijų mygtukai. Paspaudę viršutinį mygtuką, mokėjimą atšauksite. Po juo esančiu išvalymo mygtuku ištrinsite paskutinę įvestį. Apatinis įdubimas yra patvirtinimo mygtukas. Skaičius atitinkantys kampuoti įdubimai išdėstyti trimis stulpeliais kairėje pusėje. Skaičiai išdėstyti taip pat, kaip telefono klaviatūroje: viršutinė eilutė iš kairės į dešinę prasideda skaičiais 1, 2 ir 3. Įveskite PIN kodą, o paskui paspauskite patvirtinimo mygtuką.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Turėsite įvesti kortelės PIN kodą. Priekinėje skaitytuvo dalyje yra dangtelis su įdubimais. 10 įdubimų skirti skaičiams įvesti, o trys – norimoms funkcijomis pasirinkti. Spausdami skaičių įdubimus, įveskite PIN kodą. Kaskart įvedę skaičių, girdėsite pyptelėjimą. Jei norite atšaukti mokėjimą, paspauskite dešinėje esantį viršutinį mygtuką. Po juo, kaip ir telefono klaviatūroje, trimis eilutėmis išdėstyti skaičiai nuo 1 iki 9. Viršutinė eilutė iš kairės į dešinę prasideda skaičiais 1, 2 ir 3. Ketvirtoje eilutėje, apatiniame kairiajame kampe, yra išvalymo mygtukas, kuriuo galite ištrinti paskutinę įvestį. Šios eilutės centre yra nulis, o patvirtinimo mygtukas –dešinėje. Įveskite PIN kodą, o paskui paspauskite patvirtinimo mygtuką.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Operacija sėkmingai apdorota. Išimkite kortelę.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "PIN kodas neteisingas. Pabandykite dar kartą.";
+

@@ -14,13 +14,13 @@
 "card_reader_setting_enable_subtitle" = "Pokazuj jako metodę podczas przyjmowania płatności";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Zacznij przyjmować płatności kartami";
+"card_reader_setting_no_reader_cta" = "Zacznij akceptować karty";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Podłącz terminal";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Zacznij przyjmować płatności kartami";
+"card_reader_setting_no_reader_cta_generic" = "Zacznij akceptować karty";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_model" = "Zacznij korzystać z SumUp Solo";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Gotowy";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Urządzenie jest w trybie ułatwień dostępu. Przeprowadzimy Cię przez transakcję.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Transakcja nie powiodła się, a karta nie została obciążona. Spróbuj ponownie.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Transakcja nie powiodła się, ponieważ wprowadzony kod PIN jest nieprawidłowy. Spróbuj ponownie.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Należna kwota wynosi %1$@ %2$@. Aby zapłacić, wybierz jedną z dwóch następujących opcji. Jeżeli chcesz dokonać płatności zbliżeniowo, połóż kartę na terminalu. Urządzenie wyemituje jeden sygnał po rozpoznaniu karty. Możesz też zapłacić, wkładając kartę chipem z przodu i do góry, do szczeliny w górnej części czytnika oraz postępując zgodnie z instrukcjami głosowymi.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Trzeba będzie wprowadzić kod PIN. Z przodu terminala znajduje się osłona z otworami. Istnieje dziesięć otworów do cyfr i trzy do funkcji. Naciśnij te otwory, aby wprowadzić kod PIN. Każdą wprowadzoną cyfrę będzie sygnalizować sygnał dźwiękowy. Trzy okrągłe otwory na przyciski funkcyjne znajdują się w skrajnej prawej kolumnie. U góry znajduje się przycisk służący do anulowania płatności. Pod nim znajduje się przycisk czyszczenia, który usuwa najnowszy wpis. A poniżej znajduje się przycisk potwierdzenia. Liczby na klawiaturze numerycznej znajdują się w trzech skrajnych kolumnach z kwadratowymi otworami. Klawiatura numeryczna ma układ klawiatury telefonu, począwszy od 1, 2 i 3, od lewej do prawej strony u góry. Wprowadź teraz kod PIN i naciśnij przycisk potwierdzenia.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Trzeba będzie wprowadzić kod PIN. Z przodu terminala znajduje się osłona z otworami. Istnieje dziesięć otworów do cyfr i trzy do funkcji. Naciśnij te otwory, aby wprowadzić kod PIN. Każdą wprowadzoną cyfrę będzie sygnalizować sygnał dźwiękowy. Przycisk w prawym górnym rogu umożliwia anulowanie płatności. Pod nim znajdują się cyfry od 1 do 9 w układzie klawiatury telefonicznej z trzema rzędami, począwszy od 1, 2 i 3, od lewej do prawej strony. W czwartym rzędzie, w lewym dolnym rogu znajduje się przycisk usuwania, który usuwa najnowszy wpis. Pośrodku tego wiersza znajduje się cyfra zero, a po prawej przycisk potwierdzenia. Wprowadź teraz kod PIN i naciśnij przycisk potwierdzenia.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transakcja powiodła się. Wyjmij kartę.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Kod PIN jest nieprawidłowy. Spróbuj ponownie.";
 

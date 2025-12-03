@@ -14,13 +14,13 @@
 "card_reader_setting_enable_subtitle" = "Показване като метод на плащане при плащане";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Първи стъпки с картови плащания";
+"card_reader_setting_no_reader_cta" = "Активиране на картови плащания";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Свързване на терминал";
+"card_reader_setting_no_reader_cta_button" = "Свържи терминал";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Първи стъпки с картови плащания";
+"card_reader_setting_no_reader_cta_generic" = "Активиране на картови плащания";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_model" = "Активиране на Top / Solo";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Активен";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Устройството е в режим за достъпност. Ще бъдете насочени при извършване на транзакцията.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Транзакцията не беше осъществена и картата не беше таксувана. Моля, опитайте отново.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Транзакцията не беше осъществена, защото въведеният ПИН код е грешен. Моля, опитайте отново.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Дължимата сума е %1$@ %2$@. За да платите, изберете една от следните две опции. Ако желаете да извършите безконтактно плащане, поставете картата си върху терминала. Устройството ще издаде еднократен звуков сигнал, когато картата Ви бъде разпозната. Или платете, като поставите чипа на картата първо и с лицето нагоре в слота в горната част на терминала, следвайки устните инструкции.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Трябва да въведете своя ПИН. От предната страна на терминала има капак с отвори, които да Ви насочват. Има десет отвора за цифри и три за функции. Натиснете в тези отвори, за да въведете своя ПИН. След всяка въведена цифра ще се чуе звуков сигнал. Трите кръгли отвора за функционалните бутони са в най-дясната колона. Горната част е бутонът, който отменя плащането. Под него се намира бутонът за изчистване, който изтрива последния ви запис. А под него е бутонът за потвърждение. Числата на клавиатурата са в трите най-леви колони, които имат квадратни отвори. Клавиатурата е в подредба за телефон, като се започва с 1, 2 и 3 от ляво надясно в горната част. Моля, въведете своя ПИН сега, след което натиснете бутона за потвърждение.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Трябва да въведете своя ПИН. От предната страна на терминала има капак с отвори, които да Ви насочват. Има десет отвора за цифри и три за функции. Натиснете в тези отвори, за да въведете своя ПИН. След всяка въведена цифра ще се чуе звуков сигнал. Бутонът горе вдясно отменя плащането. Под него са цифрите от 1 до 9 в подредба за телефон от три реда, започващи с 1, 2 и 3 отляво надясно в горната част. На 4-ти ред долу вляво се намира бутонът за изчистване, който изтрива последния ви запис. Числото нула е в центъра на този ред, а бутонът за потвърждение е вдясно. Моля, въведете своя ПИН сега, след което натиснете бутона за потвърждение.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Успешна транзакция Моля, извадете картата.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "ПИН кодът е грешен. Моля, опитайте отново.";
 

@@ -242,7 +242,7 @@
 "sumup_tap_on_phone_landing_stories_slide_2_subtitle" = "Ei sitovaa sopimusta eikä kuukausimaksuja – maksat vain pienen %1$@:n välityspalkkion SumUpille jokaisesta älypuhelimellasi vastaanottamastasi maksusta.";
 
 /* title for Stories component page two */
-"sumup_tap_on_phone_landing_stories_slide_2_title" = "Maksuton käyttöönotto, ei sitoumuksia";
+"sumup_tap_on_phone_landing_stories_slide_2_title" = "Aktivointi 0 €, ei sitoumuksia";
 
 /* subtitle for Stories component page three */
 "sumup_tap_on_phone_landing_stories_slide_3_subtitle" = "Sinun tarvitsee vain ladata SumUp-sovellus ja suorittaa muutama helppo vaihe, niin olet valmis vastaanottamaan maksuja älypuhelimellasi.";
@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Kytke ”Tap to Pay” päälle nyt tai tee se myöhemmin SumUp-profiilissasi.";
 
+"sumup_tap_or_insert_card" = "Napauta tai aseta kortti lukijaan";
+
 "sumup_tap_os_check_alert_message" = "Ominaisuuden käyttöön tarvitaan vähintään iOS-versio %1$@";
 
 "sumup_tap_os_check_alert_settings_button" = "Asetukset";
@@ -386,6 +388,8 @@
 "sumup_tap_subaccount_check_alert_message" = "Valitettavasti työntekijätililläsi ei ole oikeuttaa ottaa käyttöön Tap to Pay ‑maksutapaa.\n\nPyydä SumUp-tilin omistajaa suorittamaan käyttöönotto ja yritä sitten uudelleen.";
 
 "sumup_tap_subaccount_check_alert_title" = "Käyttöönottoa ei voi suorittaa työntekijätilillä";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Käyttöehdot on jo hyväksytty";
 

@@ -17,13 +17,13 @@
 "card_reader_setting_no_reader_cta" = "Aan de slag met pasbetalingen";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Pinapparaat verbinden";
+"card_reader_setting_no_reader_cta_button" = "Pinapparaat koppelen";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_generic" = "Aan de slag met pasbetalingen";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "SumUp Solo inschakelen";
+"card_reader_setting_no_reader_cta_model" = "Aan de slag met Top/Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Ander pinapparaat gebruiken";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Gereed";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Het apparaat staat in de toegankelijkheidsmodus. U wordt door de transactie geleid.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "De transactie is niet geslaagd en de kaart is niet belast. Probeer het opnieuw.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "De transactie is niet geslaagd omdat de ingevoerde pincode onjuist was. Probeer het opnieuw.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Het verschuldigde bedrag is %1$@ %2$@. Kies een van de volgende twee opties om te betalen. Als u contactloos wilt betalen, legt u uw kaart op de kaartlezer. Het apparaat zal één keer piepen wanneer uw kaart wordt herkend. Of betaal door je kaart met de chip eerst en naar boven gericht in de sleuf aan de bovenkant van de lezer te steken en volg de gesproken instructies.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "U moet uw pincode invoeren. Aan de voorkant van de lezer bevindt zich een afdekking met gaten om je te begeleiden. Er zijn tien gaten voor cijfers en drie voor functies. Druk op deze knoppen om uw pincode in te voeren. Een pieptoon volgt elk cijfer dat je invoert. De drie ronde gaten voor de functieknoppen bevinden zich in de meest rechtse kolom. Bovenaan bevindt zich de knop die de betaling zal annuleren. Daaronder bevindt zich de wis-knop, waarmee je meest recente invoer wordt verwijderd. En daaronder bevindt zich de bevestigingsknop. De cijfers op het toetsenblok bevinden zich in de drie meest linkse kolommen, die vierkante gaten hebben. Het toetsenbord heeft een telefoonindeling, waarbij de cijfers 1, 2 en 3 van links naar rechts bovenaan beginnen. Voer nu uw pincode in en druk op de bevestigingsknop.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "U moet uw pincode invoeren. Aan de voorkant van de lezer bevindt zich een afdekking met gaten om je te begeleiden. Er zijn tien gaten voor cijfers en drie voor functies. Druk op deze knoppen om uw pincode in te voeren. Een pieptoon volgt elk cijfer dat je invoert. De knop rechtsboven annuleert de betaling. Onder bevinden zich de cijfers 1 tot en met 9 in een telefoonindeling van drie rijen, beginnend met 1, 2 en 3 van links naar rechts bovenaan. In de 4e rij linksonder bevindt zich de knop 'Wissen', die je meest recente invoer verwijdert. Het cijfer nul staat in het midden van deze rij en de bevestigingsknop bevindt zich aan de rechterkant. Voer nu uw pincode in en druk op de bevestigingsknop.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transactie geslaagd. Verwijder de kaart alstublieft.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "De pincode is onjuist. Probeer het opnieuw.";
 

@@ -1,6 +1,72 @@
-"circuit_navigationHeader_backButton_title" = "Back";
+"circuit_navigationHeader_addButton_title" = "Pievienot";
 
-"circuit_navigationHeader_cancelButton_title" = "Cancel";
+"circuit_navigationHeader_backButton_title" = "Atpakaļ";
 
-"circuit_navigationHeader_moreButton_title" = "More";
+"circuit_navigationHeader_cancelButton_title" = "Atcelt";
+
+"circuit_navigationHeader_chatButton_title" = "Tērzēt";
+
+"circuit_navigationHeader_closeButton_title" = "Aizvērt";
+
+"circuit_navigationHeader_deleteButton_title" = "Dzēst";
+
+"circuit_navigationHeader_discountButton_title" = "Piemērot atlaidi";
+
+"circuit_navigationHeader_documentButton_title" = "Document";
+
+"circuit_navigationHeader_editButton_title" = "Edit";
+
+"circuit_navigationHeader_editCategoriesButton_title" = "Edit Categories";
+
+"circuit_navigationHeader_editCategories_title" = "Edit Categories";
+
+"circuit_navigationHeader_filterButton_title" = "Filtrēt";
+
+"circuit_navigationHeader_flashButton_off_title" = "Flash off";
+
+"circuit_navigationHeader_flashButton_on_title" = "Flash on";
+
+"circuit_navigationHeader_helpButton_title" = "Palīdzība";
+
+"circuit_navigationHeader_hideButton_title" = "Paslēpt";
+
+"circuit_navigationHeader_inboxButton_title" = "Iesūtne";
+
+"circuit_navigationHeader_mailButton_title" = "Mail";
+
+"circuit_navigationHeader_minimizeButton_title" = "Samazināt";
+
+"circuit_navigationHeader_moreButton_title" = "Vairāk";
+
+"circuit_navigationHeader_printButton_title" = "Drukāt";
+
+"circuit_navigationHeader_refreshButton_title" = "Pārlādēt";
+
+"circuit_navigationHeader_reportButton_title" = "Ziņot";
+
+"circuit_navigationHeader_saveButton_title" = "Saglabāt";
+
+"circuit_navigationHeader_scanBarcodeButton_title" = "Scan Barcode";
+
+"circuit_navigationHeader_scanButton_title" = "Scan";
+
+"circuit_navigationHeader_scanQRCodeButton_title" = "Scan QR Code";
+
+"circuit_navigationHeader_searchButton_title" = "Meklēt";
+
+"circuit_navigationHeader_settingsButton_title" = "Iestatījumi";
+
+"circuit_navigationHeader_shareButton_title" = "Nosūtīt";
+
+"circuit_navigationHeader_showButton_title" = "Rādīt";
+
+"circuit_segmentedProgressBar_progress_accessibility_label" = "Progress";
+
+"circuit_segmentedProgressBar_progress_accessibility_value" = "Step %1$d of %2$d";
+
+"circuit_spinner_loading_accessibility_label" = "Loading";
+
+"circuit_spinner_loading_accessibility_value" = "In Progress";
+
+"circuit_tierIndicator_plusTier_accessibilityLabel" = "Plus Tier";
 

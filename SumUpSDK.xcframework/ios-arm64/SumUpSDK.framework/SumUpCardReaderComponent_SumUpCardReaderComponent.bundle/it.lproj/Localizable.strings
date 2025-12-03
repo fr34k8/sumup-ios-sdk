@@ -1,5 +1,5 @@
 /* Title shown in navigation bar for card reader screen in Options */
-"card_reader_setting" = "Lettore di carte";
+"card_reader_setting" = "POS";
 
 /* Shown for Brazilian users, with a card reader activation code beneath */
 "card_reader_setting_activate_model" = "Attiva Total / Super / On";
@@ -14,19 +14,19 @@
 "card_reader_setting_enable_subtitle" = "Mostralo come metodo di pagamento alla cassa";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Inizia con i pagamenti tramite carta";
+"card_reader_setting_no_reader_cta" = "Attiva i pagamenti con carta";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Connetti il lettore";
+"card_reader_setting_no_reader_cta_button" = "Connetti il POS";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Inizia con i pagamenti tramite carta";
+"card_reader_setting_no_reader_cta_generic" = "Attiva i pagamenti con carta";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Attiva SumUp Solo";
+"card_reader_setting_no_reader_cta_model" = "Inizia con SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
-"card_reader_setting_switch_card_readers" = "Passa a un altro lettore";
+"card_reader_setting_switch_card_readers" = "Passa a un altro POS";
 
 /* Don not translate! */
 "sumup_btn_awb_scan" = "Cerca di nuovo";
@@ -64,7 +64,7 @@
 
 "sumup_btn_no" = "No";
 
-"sumup_btn_not_my_reader" = "Non è il mio lettore";
+"sumup_btn_not_my_reader" = "Non è il mio POS";
 
 "sumup_btn_ok" = "OK";
 
@@ -124,7 +124,7 @@
 "sumup_card_reader_error_dialog_positive" = "Riprova";
 
 /* Title text for card reader unable to connect dialog */
-"sumup_card_reader_error_dialog_title" = "Connessione al lettore di carte non riuscita. Ti preghiamo di riprovare.";
+"sumup_card_reader_error_dialog_title" = "Connessione al POS non riuscita. Ti preghiamo di riprovare.";
 
 "sumup_card_reader_hardware_version_text" = "Hardware";
 
@@ -134,7 +134,7 @@
 "sumup_card_reader_low_battery" = "Low battery, please charge device";
 
 /* body for Card reader not saved */
-"sumup_card_reader_not_saved_body" = "Connetti il lettore di carte";
+"sumup_card_reader_not_saved_body" = "Connetti il POS";
 
 /* title for Card reader not saved */
 "sumup_card_reader_not_saved_title" = "Inizia con i pagamenti tramite carta";
@@ -146,7 +146,7 @@
 "sumup_card_reader_serial_number_text" = "Numero di serie";
 
 /* Title text for Card reader page toggle */
-"sumup_card_reader_setting_enable_generic" = "Accetta pagamenti con lettore di carte";
+"sumup_card_reader_setting_enable_generic" = "Accetta pagamenti con il POS";
 
 /* Title text for Card reader page toggle for BR */
 "sumup_card_reader_setting_enable_generic_br" = "Accetta pagamenti con Top / Solo";
@@ -155,7 +155,7 @@
 "sumup_card_reader_setting_enable_subtitle" = "Mostralo come metodo di pagamento alla cassa.";
 
 /* text for Card reader page footer */
-"sumup_card_reader_setting_switch_card_readers" = "Passa a un altro lettore";
+"sumup_card_reader_setting_switch_card_readers" = "Passa a un altro POS";
 
 /* text for Card reader software version */
 "sumup_card_reader_software_version_text" = "Software";
@@ -193,7 +193,7 @@
 "sumup_reader_attribute_unknown" = "Sconosciuto";
 
 /* Label displayed when the App is attempting connecting to a card reader */
-"sumup_reader_connecting_text" = "Connessione al lettore di carte in corso";
+"sumup_reader_connecting_text" = "Connessione al POS in corso";
 
 /* Title displayed when the App is attempting connecting to a card reader */
 "sumup_reader_connecting_title" = "Connessione in corso";
@@ -214,11 +214,35 @@
 "sumup_reader_payment_cancelled" = "Il pagamento è stato annullato";
 
 /* Title of the button that opens the reader walkthrough from checkout. */
-"sumup_reader_walkthrough_button_title" = "Imposta il lettore di carte";
+"sumup_reader_walkthrough_button_title" = "Imposta il POS";
 
 /* Title of the reader Inactive state in card reader component */
 "sumup_saved_reader_home_item_status_is_inactive" = "Non attivo";
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Pronto";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Il dispositivo è in modalità accessibilità. Ti guideremo durante la transazione.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "La transazione non è riuscita, l'importo non è stato addebitato sulla carta. Ti preghiamo di riprovare.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "La transazione non è riuscita perché il PIN inserito era errato. Ti preghiamo di riprovare.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "L'importo dovuto è %1$@ %2$@. Per pagare, scegli una delle seguenti due opzioni. Se vuoi effettuare un pagamento contactless, appoggia la carta sul POS. Il dispositivo emetterà un segnale acustico quando la tua carta verrà riconosciuta. In alternativa, paga inserendo la carta con il chip rivolto verso l'alto nella fessura sulla parte superiore del POS e segui le istruzioni vocali.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Dovrai inserire il tuo codice PIN. Sulla parte anteriore del POS è presente una copertura con alcuni fori che ti guideranno. Sono presenti dieci fori per le cifre e tre per le funzioni. Premi all'interno di questi fori per inserire il tuo codice PIN. Un segnale acustico seguirà ogni cifra che inserisci. I tre fori rotondi per i pulsanti funzione sono situati nella colonna più a destra. In alto si trova il pulsante che annullerà il pagamento. Sotto è presente il pulsante cancella, che elimina il tuo ultimo inserimento. E sotto di esso è presente il pulsante di conferma. I numeri sulla tastiera si trovano nelle tre colonne più a sinistra, che hanno fori quadrati. La tastiera ha un layout telefonico, inizia con 1, 2 e 3 da sinistra a destra nella parte superiore. Inserisci ora il tuo codice PIN, quindi premi il pulsante di conferma.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Dovrai inserire il tuo codice PIN. Sulla parte anteriore del POS è presente una copertura con alcuni fori che ti guideranno. Sono presenti dieci fori per le cifre e tre per le funzioni. Premi all'interno di questi fori per inserire il tuo codice PIN. Un segnale acustico seguirà ogni cifra che inserisci. Il pulsante in alto a destra annulla il pagamento. Sotto di esso ci sono i numeri da 1 a 9 in un layout telefonico di tre righe, che iniziano con 1, 2 e 3 da sinistra a destra nella parte superiore. Nella quarta riga in basso a sinistra si trova il pulsante cancella, che elimina il tuo ultimo inserimento. Il numero zero è al centro di questa riga e il pulsante di conferma è sulla destra. Inserisci ora il tuo codice PIN, quindi premi il pulsante di conferma.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transazione riuscita. Rimuovere la carta.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Il PIN è errato. Ti preghiamo di riprovare.";
 

@@ -17,13 +17,13 @@
 "card_reader_setting_no_reader_cta" = "Kom i gang med kortbetalinger";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Koble til kortleser";
+"card_reader_setting_no_reader_cta_button" = "Tilkoble kortleser";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_generic" = "Kom i gang med kortbetalinger";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Kom i gang med Solo";
+"card_reader_setting_no_reader_cta_model" = "Kom i gang med Top / Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Bytt til en annen kortleser";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Klar";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Enheten er i tilgjengelighetsmodus. Du vil bli veiledet gjennom transaksjonen.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Transaksjonen gikk ikke gjennom, og kortet ble ikke belastet. Prøv på nytt.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Transaksjonen gikk ikke gjennom fordi PIN-koden som ble tastet inn, var feil. Prøv på nytt.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Beløpet som skal betales er %1$@ %2$@. For å betale, velg ett av de to følgende alternativene. Hvis du ønsker å foreta en kontaktløs betaling, plasser kortet på kortleseren. Enheten vil pipe én gang når kortet ditt blir gjenkjent. Eller betal ved å sette inn kortet med chipen først og med forsiden opp i sporet på toppen av leseren, og følg de muntlige instruksjonene.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Du må angi PIN-koden din. På forsiden av leseren er det et deksel med hull for å lede deg. Det er ti hull for tall og tre for funksjoner. Trykk på disse hullene for å skrive inn PIN-koden. Et pip vil følge hvert siffer du taster inn. De tre runde hullene for funksjonsknappene er i kolonnen lengst til høyre. Øverst er knappen som vil kansellere betalingen. Under den er klareringsknappen, som sletter den siste oppføringen din. Og nedenfor er bekreft-knappen. Tallene på tastaturet er i de tre venstre kolonnene, som har firkantede hull. Tastaturet har et telefonoppsett, som starter med 1, 2 og 3 fra venstre til høyre øverst. Skriv inn PIN-koden din nå, og trykk deretter på «Bekreft».";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Du må angi PIN-koden din. På forsiden av leseren er det et deksel med hull for å lede deg. Det er ti hull for tall og tre for funksjoner. Trykk på disse hullene for å skrive inn PIN-koden. Et pip vil følge hvert siffer du taster inn. Knappen øverst til høyre kansellerer betalingen. Under den er tallene 1 til 9 i et telefonoppsett med tre rader, som starter med 1, 2 og 3 fra venstre til høyre øverst. I den fjerde raden nederst til venstre er tøm-knappen, som sletter den siste oppføringen din. Tallet null er i midten av denne raden, og bekreft-knappen er til høyre. Skriv inn PIN-koden din nå, og trykk deretter på «Bekreft».";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transaksjonen var vellykket. Fjern kortet.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "PIN-koden er feil. Prøv på nytt.";
 

@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Kapcsolja be a „Tap to Pay” funkciót most, vagy tegye meg később a SumUp-fiókjában";
 
+"sumup_tap_or_insert_card" = "Érintse oda vagy helyezze be a kártyát";
+
 "sumup_tap_os_check_alert_message" = "A funkció használatához %1$@ vagy újabb iOS-verzióra van szüksége";
 
 "sumup_tap_os_check_alert_settings_button" = "Beállítások";
@@ -386,6 +388,8 @@
 "sumup_tap_subaccount_check_alert_message" = "Sajnos az Ön alkalmazotti fiókja nem jogosult a Tap to Pay aktiválására.\n\nLépjen kapcsolatba a SumUp-fiók tulajdonosával, majd próbálja újra.";
 
 "sumup_tap_subaccount_check_alert_title" = "Nem aktiválható alkalmazotti fiókkal";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Már elfogadták a szolgáltatási feltételeket";
 

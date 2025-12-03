@@ -14,13 +14,13 @@
 "card_reader_setting_enable_subtitle" = "Prikaži kot način plačila pri zaključku nakupa.";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Začnite sprejemati kartična plačila";
+"card_reader_setting_no_reader_cta" = "Sprejemajte kartična plačila";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Poveži čitalec";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Začnite sprejemati kartična plačila";
+"card_reader_setting_no_reader_cta_generic" = "Sprejemajte kartična plačila";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_model" = "Omogočite SumUp Solo";
@@ -66,7 +66,7 @@
 
 "sumup_btn_not_my_reader" = "Ni moj čitalec";
 
-"sumup_btn_ok" = "OK";
+"sumup_btn_ok" = "V redu";
 
 /* Button shown on the signature screen once the customer has signed for the payment. */
 "sumup_btn_pay" = "Plačaj";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Pripravljen";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Naprava je v načinu dostopnosti. Vodeni boste skozi transakcijo.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Transakcija ni bila izvedena in kartica ni bila bremenjena. Poskusite znova.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Transakcija ni bila izvedena, ker je bila vnesena napačna koda PIN. Poskusite znova.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Dolgovani znesek znaša %1$@ %2$@. Za plačilo izberite eno od naslednjih dveh možnosti. Če želite izvesti brezstično plačilo, kartico položite na kartični čitalec. Naprava bo zapiskala, ko bo vaša kartica prepoznana. Plačate lahko tudi tako, da kartico s čipom obrnjeno navzgor najprej vstavite v režo na vrhu čitalca nato pa upoštevajte ustna navodila.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Vnesti boste morali svojo kodo PIN. Sprednja stran čitalca ima pokrov z luknjami, ki vas usmerjajo. Ima deset lukenj za številke in tri luknje za funkcije. Pritisnite te luknje, da vnesete svojo kodo PIN. Pisk bo spremljal vsako vneseno številko. Tri okrogle luknje za funkcijske gumbe so v skrajnem desnem stolpcu. Na vrhu je gumb, ki prekliče plačilo. Spodaj je gumb za brisanje, s katerim bo izbrisan vaš zadnji vnos. Pod njim pa je potrditveni gumb. Številke na tipkovnici so zapisane v treh skrajnih levih stolpcih, ki imajo kvadratne luknje. Tipkovnica ima telefonsko postavitev, ki se začne s številkami 1, 2 in 3 od leve proti desni zgoraj. Vnesite svoj PIN zdaj in pritisnite potrditveni gumb.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Vnesti boste morali svojo kodo PIN. Sprednja stran čitalca ima pokrov z luknjami, ki vas usmerjajo. Ima deset lukenj za številke in tri luknje za funkcije. Pritisnite te luknje, da vnesete svojo kodo PIN. Pisk bo spremljal vsako vneseno številko. Zgornji desni gumb prekličite plačilo. Spodaj so številke od 1 do 9 v telefonski postavitvi s tremi vrsticami, ki se začnejo s številkami 1, 2 in 3 od leve proti desni na vrhu. V 4. vrstici spodaj levo je gumb za brisanje, ki izbriše vaš najnovejši vnos. Številka nič je v sredini te vrstice, gumb za potrditev pa je na desni. Vnesite svoj PIN zdaj in pritisnite potrditveni gumb.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transakcija je bila uspešna. Odstranite kartico.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Koda PIN je napačna. Poskusite znova.";
 

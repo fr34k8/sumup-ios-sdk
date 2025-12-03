@@ -46,25 +46,25 @@
 
 "sumup_tap_activation_continue_button" = "Συνέχεια";
 
-"sumup_tap_activation_finished_btn_learn_more" = "Learn more";
+"sumup_tap_activation_finished_btn_learn_more" = "Μάθε περισσότερα";
 
-"sumup_tap_activation_finished_btn_try_now" = "Try now";
+"sumup_tap_activation_finished_btn_try_now" = "Δοκίμασέ το τώρα";
 
-"sumup_tap_activation_finished_subtitle" = "Start taking contactless payments with your iPhone";
+"sumup_tap_activation_finished_subtitle" = "Ξεκίνα να δέχεσαι ανέπαφες πληρωμές με το iPhone σου";
 
-"sumup_tap_activation_finished_title" = "You're all set";
+"sumup_tap_activation_finished_title" = "Όλα έτοιμα";
 
 "sumup_tap_activation_intro_btn_set_up_now" = "Ρύθμιση τώρα";
 
 "sumup_tap_activation_intro_btn_start" = "Έναρξη";
 
-"sumup_tap_activation_intro_new_subtitle" = "Start accepting in-person, contactless payments with only an iPhone.";
+"sumup_tap_activation_intro_new_subtitle" = "Ξεκίνα να δέχεσαι ανέπαφες πληρωμές παρουσία πελάτη μόνο με ένα iPhone.";
 
 "sumup_tap_activation_intro_new_title" = "Πραγματοποιήστε πωλήσεις όπου κι αν βρίσκεστε.\nΔεν απαιτείται τερματικό POS.";
 
 "sumup_tap_activation_intro_screen_title" = "Tap to Pay για iPhone";
 
-"sumup_tap_activation_intro_subtitle" = "Set up Tap to Pay on iPhone to take quick and secure payments";
+"sumup_tap_activation_intro_subtitle" = "Ρύθμισε το Tap to Pay στο iPhone για γρήγορες και ασφαλείς πληρωμές";
 
 "sumup_tap_activation_intro_table_first_row" = "iPhone XS ή νεότερη έκδοση";
 
@@ -74,35 +74,35 @@
 
 "sumup_tap_activation_intro_table_title" = "Τι χρειάζεται;";
 
-"sumup_tap_activation_intro_title" = "Tap to Pay on iPhone.\nNo card reader needed.";
+"sumup_tap_activation_intro_title" = "Tap to Pay στο iPhone.\nΔεν χρειάζεσαι αναγνώστη καρτών.";
 
 "sumup_tap_activation_learn_more_button" = "Μάθετε περισσότερα";
 
-"sumup_tap_activation_learn_more_title" = "About Tap to Pay on iPhone";
+"sumup_tap_activation_learn_more_title" = "Σχετικά με το Tap to Pay στο iPhone";
 
-"sumup_tap_activation_preparing_subtitle" = "One moment, please…";
+"sumup_tap_activation_preparing_subtitle" = "Περίμενε λίγο…";
 
 "sumup_tap_activation_preparing_title" = "Ετοιμάζουμε διάφορες ρυθμίσεις";
 
 "sumup_tap_activation_setup_button" = "Ρύθμιση";
 
-"sumup_tap_capture_pin_failed" = "Failed to obtain PIN";
+"sumup_tap_capture_pin_failed" = "Δεν καταχωρήθηκε PIN";
 
-"sumup_tap_card_declined" = "The payment failed or was declined";
+"sumup_tap_card_declined" = "Η πληρωμή απέτυχε ή απορρίφθηκε";
 
 "sumup_tap_enable_subtitle" = "Να εμφανίζεται ως μέθοδος πληρωμής στο ταμείο.";
 
-"sumup_tap_enable_toggle" = "Tap to Pay on iPhone";
+"sumup_tap_enable_toggle" = "Tap to Pay στο iPhone";
 
 "sumup_tap_error_title" = "Σφάλμα";
 
-"sumup_tap_failed_to_read_card" = "Card read failed";
+"sumup_tap_failed_to_read_card" = "Η ανάγνωση της κάρτας απέτυχε";
 
-"sumup_tap_finalizing_tx" = "Finalizing";
+"sumup_tap_finalizing_tx" = "Οριστικοποίηση";
 
 "sumup_tap_home_button" = "Ξεκινήστε";
 
-"sumup_tap_home_title" = "Accept contactless payments with only your iPhone";
+"sumup_tap_home_title" = "Δέξου ανέπαφες πληρωμές μόνο με το iPhone σου";
 
 "sumup_tap_learn_more_accessibility" = "Επιλογές προσβασιμότητας";
 
@@ -110,37 +110,37 @@
 
 "sumup_tap_learn_more_btn_set_up_now" = "Ρύθμιση τώρα";
 
-"sumup_tap_learn_more_customer_enters_pin" = "Customer enters their PIN. Use accessibility options if needed.";
+"sumup_tap_learn_more_customer_enters_pin" = "Ο πελάτης εισάγει το PIN του. Χρησιμοποίησε επιλογές προσβασιμότητας.";
 
 "sumup_tap_learn_more_enter_card_pin" = "Εισαγάγετε το PIN της κάρτας σας";
 
 "sumup_tap_learn_more_hold_here_to_pay" = "Κρατήστε το εδώ για να πληρώσετε";
 
-"sumup_tap_learn_more_hold_near_contactless" = "Or to hold their device near the contactless symbol";
+"sumup_tap_learn_more_hold_near_contactless" = "Εναλλακτικά, ζήτησέ του να κρατήσει τη συσκευή του κοντά στο σύμβολο ανέπαφων συναλλαγών";
 
-"sumup_tap_learn_more_pay_flower_shop" = "Pay Flower Shop";
+"sumup_tap_learn_more_pay_flower_shop" = "Πληρωμή ανθοπωλείου";
 
 "sumup_tap_learn_more_payment_links" = "Σύνδεσμοι πληρωμής";
 
 "sumup_tap_learn_more_payment_methods" = "Μέθοδοι πληρωμής";
 
-"sumup_tap_learn_more_present_to_customer" = "Ask your customer to hold their card as shown";
+"sumup_tap_learn_more_present_to_customer" = "Ζήτησε από τον πελάτη σου να κρατήσει την κάρτα του όπως φαίνεται";
 
-"sumup_tap_learn_more_price" = "€ 17,50";
+"sumup_tap_learn_more_price" = "17,50 €";
 
 "sumup_tap_learn_more_ttpoi" = "Tap to Pay για iPhone";
 
-"sumup_tap_link_account_failed" = "Failed to show Terms of Service";
+"sumup_tap_link_account_failed" = "Αποτυχία εμφάνισης των Όρων χρήσης υπηρεσιών";
 
-"sumup_tap_model_check_alert_message" = "You need an iPhone XS or later to use this feature";
+"sumup_tap_model_check_alert_message" = "Χρειάζεσαι iPhone XS ή νεότερη έκδοση για να χρησιμοποιήσεις αυτή τη λειτουργία";
 
-"sumup_tap_model_check_alert_title" = "iPhone model";
+"sumup_tap_model_check_alert_title" = "Μοντέλο iPhone";
 
-"sumup_tap_must_accept_tos" = "Please accept the Terms of Service to use SumUp Tap";
+"sumup_tap_must_accept_tos" = "Αποδέξου τους Όρους χρήσης υπηρεσιών για να χρησιμοποιήσεις το SumUp Tap";
 
-"sumup_tap_must_enable_passcode" = "The security passcode for this phone must be enabled to use Tap to Pay on iPhone";
+"sumup_tap_must_enable_passcode" = "Για να χρησιμοποιήσεις το Tap to Pay στο iPhone, πρέπει να είναι ενεργοποιημένος ο κωδικός ασφαλείας για αυτό το τηλέφωνο.";
 
-"sumup_tap_not_allowed_during_call" = "Please end all calls before using Tap to Pay on iPhone";
+"sumup_tap_not_allowed_during_call" = "Τερμάτισε όλες τις κλήσεις πριν χρησιμοποιήσεις το Tap to Pay στο iPhone";
 
 /* title for the Stories component for Tap on phone */
 "sumup_tap_on_phone_android_landing_stories_screen_title" = "SumUp Tap to Pay για Android";
@@ -337,57 +337,61 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Ενεργοποιήστε το \"Tap to Pay\" τώρα ή αργότερα στο Προφίλ σας SumUp";
 
-"sumup_tap_os_check_alert_message" = "You need iOS version %1$@ or later to use this feature";
+"sumup_tap_or_insert_card" = "Ακουμπήστε ή τοποθετήστε την κάρτα";
+
+"sumup_tap_os_check_alert_message" = "Χρειάζεσαι έκδοση iOS %1$@ ή νεότερη για να χρησιμοποιήσεις αυτή τη λειτουργία";
 
 "sumup_tap_os_check_alert_settings_button" = "Ρυθμίσεις";
 
-"sumup_tap_os_check_alert_title" = "OS version";
+"sumup_tap_os_check_alert_title" = "Έκδοση OS";
 
-"sumup_tap_prepare_failed" = "Failed to start Apple Tap to Pay";
+"sumup_tap_prepare_failed" = "Αποτυχία εκκίνησης του Apple Tap to Pay";
 
-"sumup_tap_prereq_app_version" = "SumUp app version";
+"sumup_tap_prereq_app_version" = "Έκδοση Εφαρμογής SumUp";
 
-"sumup_tap_prereq_app_version_cta" = "Open app store";
+"sumup_tap_prereq_app_version_cta" = "Άνοιγμα καταστήματος εφαρμογών";
 
-"sumup_tap_prereq_apple_tap_to_pay" = "'Tap to Pay' services";
+"sumup_tap_prereq_apple_tap_to_pay" = "Υπηρεσίες \"Tap to Pay\"";
 
-"sumup_tap_prereq_device_model" = "iPhone model";
+"sumup_tap_prereq_device_model" = "Μοντέλο iPhone";
 
-"sumup_tap_prereq_device_model_cta" = "More info";
+"sumup_tap_prereq_device_model_cta" = "Περισσότερες πληροφορίες";
 
-"sumup_tap_prereq_os_version" = "iOS version";
+"sumup_tap_prereq_os_version" = "Έκδοση iOS";
 
-"sumup_tap_prereq_os_version_cta" = "Open iOS settings";
+"sumup_tap_prereq_os_version_cta" = "Άνοιγμα ρυθμίσεων iOS";
 
-"sumup_tap_prereq_terms_of_service" = "Terms of service";
+"sumup_tap_prereq_terms_of_service" = "Όροι χρήσης υπηρεσιών";
 
-"sumup_tap_prereq_terms_of_service_cta" = "Review terms of service";
+"sumup_tap_prereq_terms_of_service_cta" = "Έλεγχος των όρων χρήσης υπηρεσιών";
 
 "sumup_tap_processing_tx" = "Επεξεργασία";
 
-"sumup_tap_profile_settings_item" = "Tap to Pay on iPhone";
+"sumup_tap_profile_settings_item" = "Tap to Pay στο iPhone";
 
-"sumup_tap_profile_settings_title" = "Tap to Pay on iPhone";
+"sumup_tap_profile_settings_title" = "Tap to Pay στο iPhone";
 
-"sumup_tap_proximity_reader_check_alert_message" = "Unfortunately, Apple Tap to Pay for iPhone is not available.";
+"sumup_tap_proximity_reader_check_alert_message" = "Δυστυχώς, το Apple Tap to Pay στο iPhone δεν είναι διαθέσιμο.";
 
-"sumup_tap_proximity_reader_check_alert_title" = "Apple Tap to Pay for iPhone";
+"sumup_tap_proximity_reader_check_alert_title" = "Apple Tap to Pay στο iPhone";
 
-"sumup_tap_reader_busy" = "Getting things ready. Please try again later";
+"sumup_tap_reader_busy" = "Σύστημα προσωρινά μη διαθέσιμο. Δοκίμασε ξανά αργότερα";
 
-"sumup_tap_renewal_failed" = "Unable to renew the session";
+"sumup_tap_renewal_failed" = "Δεν είναι δυνατή η ανανέωση της συνεδρίας";
 
-"sumup_tap_settings_learn_more" = "Learn about Tap to Pay on iPhone";
+"sumup_tap_settings_learn_more" = "Μάθε περισσότερα για το Tap to Pay στο iPhone";
 
-"sumup_tap_settings_learn_more_title" = "Tap to Pay on iPhone";
+"sumup_tap_settings_learn_more_title" = "Tap to Pay στο iPhone";
 
-"sumup_tap_starting" = "Starting";
+"sumup_tap_starting" = "Από μόλις";
 
-"sumup_tap_subaccount_check_alert_message" = "Unfortunately your Employee account is not authorised to activate Tap to Pay.\n\nPlease contact the main SumUp account owner to activate and then try again.";
+"sumup_tap_subaccount_check_alert_message" = "Δυστυχώς, ο λογαριασμός του υπαλλήλου σου δεν είναι εξουσιοδοτημένος για την ενεργοποίηση του Tap to Pay.\n\nΕπικοινώνησε με τον κύριο κάτοχο του λογαριασμού SumUp για να το ενεργοποιήσεις και, στη συνέχεια, προσπάθησε ξανά.";
 
-"sumup_tap_subaccount_check_alert_title" = "Cannot activate as an Employee account";
+"sumup_tap_subaccount_check_alert_title" = "Δεν μπορεί να ενεργοποιηθεί ως λογαριασμός υπαλλήλου";
 
-"sumup_tap_tos_already_accepted" = "Terms of Service have already been accepted";
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
-"sumup_tap_user_cancelled" = "The transaction was cancelled by the user";
+"sumup_tap_tos_already_accepted" = "Οι όροι χρήσης υπηρεσιών έχουν ήδη γίνει αποδεκτοί";
+
+"sumup_tap_user_cancelled" = "Η συναλλαγή ακυρώθηκε από τον χρήστη";
 

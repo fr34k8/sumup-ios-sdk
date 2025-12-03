@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Parādīt kā maksājuma veidu norēķināšanās laikā";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Darba uzsākšana ar karšu maksājumiem";
+"card_reader_setting_no_reader_cta" = "Sāc pieņemt karšu maksājumus";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Savienot termināli";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Darba uzsākšana ar karšu maksājumiem";
+"card_reader_setting_no_reader_cta_generic" = "Sāc pieņemt karšu maksājumus";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "SumUp Solo termināļa iespējošana";
+"card_reader_setting_no_reader_cta_model" = "Iespējo SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Pārslēgties uz citu termināli";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Gatavs lietošanai";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Ierīcē ir aktivizēts piekļūstamības režīms. Veicot darījumu, tev tiks paskaidrotas darbības.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Darījums netika veikts, un maksa no kartes netika iekasēta. Lūdzu, mēģini vēlreiz.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Darījums netika veikts, jo ievadītais PIN kods bija nepareizs. Lūdzu, mēģini vēlreiz.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Maksājamā summa ir %1$@ %2$@. Lai samaksātu, izvēlies vienu no divām iespējām. Ja vēlies veikt bezkontakta maksājumu, pieliec karti pie karšu termināļa. Kad ierīce atpazīs karti, atskanēs signāls vienu reizi. Vari arī maksāt, termināļa augšdaļā ievietojot karti ar mikroshēmu pa priekšu un uz augšu. Pēc tam izpildi izrunātos norādījumus.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Būs jāievada PIN kods. Termināļa priekšpusē ir pārsegs ar caurumiņiem, pēc kā var vadīties. Desmit caurumiņi ir cipariem un trīs — funkcijām. Iespied šajos caurumiņos, lai ievadītu PIN kodu. Pēc katra ievadītā cipara atskanēs signāls. Trīs apaļie caurumi funkciju pogām atrodas kolonnā vistālāk pa labi. Augšā ir poga, ar kuru var atcelt maksājumu. Zem tās ir dzēšanas poga, ar kuru var dzēst visnesenāk ievadīto. Un zem tās ir apstiprināšanas poga. Cipari uz tastatūras ir 3 kolonnās, kas atrodas pa kreisi, un kolonnām ir kvadrāta formas caurumiņi. Tastatūrai ir tālruņa pogu izkārtojums — augšā no kreisās uz labi pusi ir cipari 1, 2 un 3. Tagad ievadi PIN kodu un nospied apstiprināšanas pogu.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Būs jāievada PIN kods. Termināļa priekšpusē ir pārsegs ar caurumiņiem, pēc kā var vadīties. Desmit caurumiņi ir cipariem un trīs — funkcijām. Iespied šajos caurumiņos, lai ievadītu PIN kodu. Pēc katra ievadītā cipara atskanēs signāls. Poga augšējā stūrī pa labi ir paredzēta, lai atceltu maksājumu. Zem tās ir cipari no 1 līdz 9 tālruņa tastatūras izkārtojumā jeb trīs rindiņās, no kurām augšējā rindiņā no kreisās uz labo pusi ir cipari 1, 2 un 3. 4. rindiņas apakšdaļā pa kreisi ir dzēšanas poga, ar kuru var dzēst visnesenāk ievadīto. Cipars 0 ir šīs rindiņas centrā, bet apstiprināšanas poga — pa labi. Tagad ievadi PIN kodu un nospied apstiprināšanas pogu.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Darījums sekmīgs. Lūdzu, izņem karti.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Nepareizs PIN kods. Lūdzu, mēģini vēlreiz.";
 

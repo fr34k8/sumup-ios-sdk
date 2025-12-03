@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Afișează ca modalitate de plată în timpul plății.";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Noțiuni introductive pentru plăți cu cardul";
+"card_reader_setting_no_reader_cta" = "Inițiere în plata cu cardul";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Conectează terminalul";
+"card_reader_setting_no_reader_cta_button" = "Conectează mPOS";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Noțiuni introductive pentru plăți cu cardul";
+"card_reader_setting_no_reader_cta_generic" = "Inițiere în plata cu cardul";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Activare SumUp Solo";
+"card_reader_setting_no_reader_cta_model" = "Activează SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Treci la alt terminal mPOS";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Gata";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Dispozitivul este în modul de accesibilitate. Acesta te va ghida pentru realizarea tranzacției.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Tranzacția nu a fost procesată și cardul nu a fost debitat. Te rugăm să încerci din nou.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Tranzacția nu a fost procesată deoarece PIN-ul introdus a fost incorect. Te rugăm să încerci din nou.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Suma datorată este %1$@ %2$@. Pentru a plăti, alege una dintre următoarele două opțiuni. Dacă vrei să faci o plată fără contact, așază cardul pe terminalul mPOS. Dispozitivul va emite un bip când cardul tău este recunoscut. Sau plătește introducând cardul cu cipul înainte și cu fața în sus în fanta din partea de sus a terminalului și urmează instrucțiunile vocale.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Va trebui să introduci codul PIN. Pe partea din față a terminalului există un capac cu orificii care te vor ghida. Există zece orificii pentru cifre și trei pentru funcții. Apasă în aceste orificii pentru a introduce codul PIN. Se va auzi un bip după fiecare cifră pe care o introduci. Cele trei orificii rotunde pentru butoanele cu funcții se află pe coloana cea mai din dreapta. Butonul de sus este butonul care anulează plata. Sub el se află butonul de ștergere, care șterge cea mai recentă intrare. Iar sub acesta se află butonul de confirmare. Numerele de pe tastatură se află pe cele trei coloane din stânga, care au orificii pătrate. Tastatura are o dispunere de telefon, începând cu 1, 2 și 3, de la stânga la dreapta, în partea de sus. Introdu acum codul PIN, apoi apasă butonul de confirmare.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Va trebui să introduci codul PIN. Pe partea din față a terminalului există un capac cu orificii care te vor ghida. Există zece orificii pentru cifre și trei pentru funcții. Apasă în aceste orificii pentru a introduce codul PIN. Se va auzi un bip după fiecare cifră pe care o introduci. Butonul din dreapta sus anulează plata. Sub acesta sunt numerele de la 1 la 9, dispuse ca pe un telefon, pe trei rânduri, începând cu 1, 2 și 3, de la stânga la dreapta, în partea de sus. Pe al 4-lea rând, în stânga jos, se află butonul de ștergere, care șterge cea mai recentă intrare. Numărul zero este în centrul acestui rând, iar butonul de confirmare este în dreapta. Introdu acum codul PIN, apoi apasă butonul de confirmare.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Tranzacția a avut succes. Te rugăm să îndepărtezi cardul.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "PIN-ul este incorect. Te rugăm să încerci din nou.";
 

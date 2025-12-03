@@ -1,6 +1,72 @@
-"circuit_navigationHeader_backButton_title" = "Back";
+"circuit_navigationHeader_addButton_title" = "Dodaj";
 
-"circuit_navigationHeader_cancelButton_title" = "Cancel";
+"circuit_navigationHeader_backButton_title" = "Wróć";
 
-"circuit_navigationHeader_moreButton_title" = "More";
+"circuit_navigationHeader_cancelButton_title" = "Anuluj";
+
+"circuit_navigationHeader_chatButton_title" = "Czat";
+
+"circuit_navigationHeader_closeButton_title" = "Zamknij";
+
+"circuit_navigationHeader_deleteButton_title" = "Usuń";
+
+"circuit_navigationHeader_discountButton_title" = "Zastosuj zniżkę";
+
+"circuit_navigationHeader_documentButton_title" = "Document";
+
+"circuit_navigationHeader_editButton_title" = "Edit";
+
+"circuit_navigationHeader_editCategoriesButton_title" = "Edit Categories";
+
+"circuit_navigationHeader_editCategories_title" = "Edit Categories";
+
+"circuit_navigationHeader_filterButton_title" = "Filtruj";
+
+"circuit_navigationHeader_flashButton_off_title" = "Flash off";
+
+"circuit_navigationHeader_flashButton_on_title" = "Flash on";
+
+"circuit_navigationHeader_helpButton_title" = "Pomoc";
+
+"circuit_navigationHeader_hideButton_title" = "Ukryj";
+
+"circuit_navigationHeader_inboxButton_title" = "Skrzynka odbiorcza";
+
+"circuit_navigationHeader_mailButton_title" = "Mail";
+
+"circuit_navigationHeader_minimizeButton_title" = "Minimalizuj";
+
+"circuit_navigationHeader_moreButton_title" = "Więcej";
+
+"circuit_navigationHeader_printButton_title" = "Drukuj";
+
+"circuit_navigationHeader_refreshButton_title" = "Odśwież";
+
+"circuit_navigationHeader_reportButton_title" = "Raport";
+
+"circuit_navigationHeader_saveButton_title" = "Zapisz";
+
+"circuit_navigationHeader_scanBarcodeButton_title" = "Scan Barcode";
+
+"circuit_navigationHeader_scanButton_title" = "Scan";
+
+"circuit_navigationHeader_scanQRCodeButton_title" = "Scan QR Code";
+
+"circuit_navigationHeader_searchButton_title" = "Szukaj";
+
+"circuit_navigationHeader_settingsButton_title" = "Ustawienia";
+
+"circuit_navigationHeader_shareButton_title" = "Udostępnij";
+
+"circuit_navigationHeader_showButton_title" = "Pokaż";
+
+"circuit_segmentedProgressBar_progress_accessibility_label" = "Progress";
+
+"circuit_segmentedProgressBar_progress_accessibility_value" = "Step %1$d of %2$d";
+
+"circuit_spinner_loading_accessibility_label" = "Loading";
+
+"circuit_spinner_loading_accessibility_value" = "In Progress";
+
+"circuit_tierIndicator_plusTier_accessibilityLabel" = "Plus Tier";
 

@@ -14,13 +14,13 @@
 "card_reader_setting_enable_subtitle" = "Mostrar como modo de pagamento durante a compra";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Começar com os pagamentos com cartão";
+"card_reader_setting_no_reader_cta" = "Começar pagamentos com cartão";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Conectar leitor";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Começar com os pagamentos com cartão";
+"card_reader_setting_no_reader_cta_generic" = "Começar pagamentos com cartão";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_model" = "Começar com o Solo";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Pronto";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "O dispositivo está no modo de acessibilidade. Receberá orientação durante a transação.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "A transação não foi realizada e não foi cobrado nada no cartão. Tente novamente.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "A transação não foi concluída porque o PIN introduzido estava incorreto. Tente novamente.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "O valor devido é %1$@ %2$@. Para pagar, escolha uma das duas opções seguintes. Se quiser fazer um pagamento contactless, coloque o cartão sobre o leitor de cartões. O dispositivo emitirá um sinal sonoro quando o cartão for reconhecido. Ou então pague ao inserir o cartão com o chip virado para cima na ranhura na parte superior do leitor, seguindo as instruções faladas.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Terá de introduzir o seu PIN. Na parte da frente do leitor, há uma tampa com orifícios para que se possa orientar. Existem dez orifícios para dígitos e três para funções. Pressione estes orifícios para introduzir o seu PIN. Ouvirá um sinal sonoro após cada dígito que inserir. Os três orifícios redondos para os botões de funções estão na coluna mais à direita. No topo, está o botão que cancela o pagamento. Abaixo, está o botão Limpar, que apaga a sua entrada mais recente. E abaixo disso está o botão de confirmação. Os números no teclado estão nas três colunas mais à esquerda, e têm orifícios quadrados. O teclado tem um layout de telefone, começando com 1, 2 e 3, da esquerda para a direita, na linha superior. Insira o seu PIN agora e pressione o botão de confirmação.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Terá de introduzir o seu PIN. Na parte da frente do leitor, há uma tampa com orifícios para que se possa orientar. Existem dez orifícios para dígitos e três para funções. Pressione estes orifícios para introduzir o seu PIN. Ouvirá um sinal sonoro após cada dígito que inserir. O botão no canto superior direito cancela o pagamento. Abaixo, estão os números de 1 a 9 dispostos num layout de telefone com três linhas, começando com 1, 2 e 3, da esquerda para a direita, na linha superior. Na quarta linha, no canto inferior esquerdo, está o botão Limpar, que apaga a sua entrada mais recente. O número zero está no centro desta linha, e o botão de confirmação está à direita. Insira o seu PIN agora e pressione o botão de confirmação.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "A transação foi bem-sucedida. Remova o cartão, por favor.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "O PIN está incorreto. Tente novamente.";
 

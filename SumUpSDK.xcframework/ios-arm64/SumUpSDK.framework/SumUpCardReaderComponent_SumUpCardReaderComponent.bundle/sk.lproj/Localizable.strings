@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Zobraziť ako spôsob platby pri uskutočňovaní transakcií.";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Začnite prijímať platby kartou";
+"card_reader_setting_no_reader_cta" = "Prijímajte platby";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Pripojiť terminál";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Začnite prijímať platby kartou";
+"card_reader_setting_no_reader_cta_generic" = "Prijímajte platby";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Začnite používať Solo";
+"card_reader_setting_no_reader_cta_model" = "Aktivujte SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Použiť iný platobný terminál";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Pripravený";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Na zariadení bol aktivovaný režim zjednodušeného prístupu. Celým procesom uskutočňovania transakcie vás prevedieme.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Transakcia neprebehla úspešne a z karty nebola strhnutá príslušná suma. Skúste to, prosím, znovu.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Transakcia neprebehla úspešne, pretože ste zadali nesprávny PIN kód. Skúste to, prosím, znovu.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Výška platby je %1$@ %2$@. Ak chcete zaplatiť, vyberte jednu z nasledujúcich možností. Ak chcete zaplatiť bezkontaktne, priložte kartu k terminálu. Keď bude vaša karta rozpoznaná, zariadenie raz zapípa. Zaplatiť môžete aj tak, že svoju kartu vložíte. Kartu vložte do otvoru v hornej časti terminálu (do terminálu vložte časť s čipom a dbajte na to, aby bola karta otočená nahor). Následne postupujte podľa inštrukcií.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Budete musieť zadať svoj PIN kód. Na prednej strane terminálu sa nachádza kryt s otvormi. Desať otvorov sa nachádza nad číslicami a tri otvory sa nachádzajú nad tlačidlami, pomocou ktorých môžete ovládať funkcie. Pri zadávaní PIN kódu strčte svoj prst do týchto otvorov. Po zadaní číslice sa ozve pípnutie. V stĺpci úplne vpravo nájdete tri okrúhle otvory. Tieto otvory sa nachádzajú nad tlačidlami, pomocou ktorých môžete ovládať funkcie. Pomocou horného tlačidla môžete zrušiť platbu. Pod týmto tlačidlom nájdete tlačidlo, pomocou ktorého môžete odstrániť poslednú zadanú číslicu. Ešte nižšie nájdete potvrdzovacie tlačidlo. Číslice sa nachádzajú v troch stĺpcoch, ktoré nájdete úplne vľavo. Otvory majú v tomto prípade tvar štvorca. Klávesnica pripomína klávesnicu telefónu. V hornom riadku nájdete číslice 1, 2 a 3 (v tomto poradí; zľava doprava). Teraz, prosím, zadajte svoj PIN kód a stlačte potvrdzovacie tlačidlo.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Budete musieť zadať svoj PIN kód. Na prednej strane terminálu sa nachádza kryt s otvormi. Desať otvorov sa nachádza nad číslicami a tri otvory sa nachádzajú nad tlačidlami, pomocou ktorých môžete ovládať funkcie. Pri zadávaní PIN kódu strčte svoj prst do týchto otvorov. Po zadaní číslice sa ozve pípnutie. Ak chcete zrušiť platbu, stlačte tlačidlo nachádzajúce sa vpravo hore. Pod týmto tlačidlom sa nachádzajú číslice 1 až 9 (v troch riadkoch; tak, ako na telefóne). V hornom riadku nájdete číslice 1, 2 a 3 (v tomto poradí; zľava doprava). Vo štvrtom riadku (pozícia vľavo dole) sa nachádza tlačidlo, pomocou ktorého môžete odstrániť poslednú zadanú číslicu. Číslica 0 sa nachádza v strede tohto riadku a potvrdzovacie tlačidlo sa nachádza vpravo. Teraz, prosím, zadajte svoj PIN kód a stlačte potvrdzovacie tlačidlo.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Transakcia prebehla úspešne. Prosím, vyberte kartu.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Zadaný PIN kód nie je správny. Skúste to, prosím, znovu.";
 

@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Vklopite \"Tap to Pay\" zdaj ali pa pozneje v profilu SumUp";
 
+"sumup_tap_or_insert_card" = "Prislonite ali vstavite kartico";
+
 "sumup_tap_os_check_alert_message" = "Če želiš uporabljati to funkcijo, potrebuješ iOS različice %1$@ ali novejšo";
 
 "sumup_tap_os_check_alert_settings_button" = "Nastavitve";
@@ -386,6 +388,8 @@
 "sumup_tap_subaccount_check_alert_message" = "Žal tvoj račun zaposlenega ni pooblaščen za aktivacijo funkcije Tap to Pay.\n\nZa aktivacijo se obrni na lastnika glavnega računa SumUp in nato poskusi znova.";
 
 "sumup_tap_subaccount_check_alert_title" = "Ni mogoče aktivirati z računom zaposlenega";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Pogoji storitve so že bili sprejeti";
 

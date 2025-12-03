@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Να εμφανίζεται ως μέθοδος πληρωμής κατά την ολοκλήρωση των αγορών";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Ξεκινήστε με τις πληρωμές με κάρτα";
+"card_reader_setting_no_reader_cta" = "Δεχτείτε πληρωμές με κάρτα";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Σύνδεση τερματικού POS";
+"card_reader_setting_no_reader_cta_button" = "Σύνδεση τερματικού";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Ξεκινήστε με τις πληρωμές με κάρτα";
+"card_reader_setting_no_reader_cta_generic" = "Δεχτείτε πληρωμές με κάρτα";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Ενεργοποίηση SumUp Top";
+"card_reader_setting_no_reader_cta_model" = "Ενεργοποίηση SumUp Solo";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Μετάβαση σε άλλο τερματικό POS";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Έτοιμο";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Η συσκευή βρίσκεται σε λειτουργία προσβασιμότητας. Θα σας καθοδηγήσουμε καθ’ όλη τη διάρκεια της συναλλαγής.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Η συναλλαγή δεν ολοκληρώθηκε και η κάρτα δεν χρεώθηκε. Προσπαθήστε ξανά.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Η συναλλαγή δεν ολοκληρώθηκε επειδή ο κωδικός PIN που εισαγάγατε ήταν λανθασμένος. Προσπαθήστε ξανά.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Το οφειλόμενο ποσό είναι %1$@ %2$@. Για να πληρώσετε, ορίστε μία από τις ακόλουθες δύο επιλογές. Εάν θέλετε να πραγματοποιήσετε μια ανέπαφη πληρωμή, τοποθετήστε την κάρτα σας στο τερματικό POS. Η συσκευή θα εκπέμψει ένα ηχητικό σήμα μία φορά μόλις αναγνωριστεί η κάρτα σας. Εναλλακτικά, μπορείτε να πληρώσετε τοποθετώντας πρώτα την κάρτα σας με την πλευρά που έχει το τσιπ και κρατώντας την προς τα πάνω στην υποδοχή που βρίσκεται στο πάνω μέρος του τερματικού POS, και ακολουθώντας τις προφορικές οδηγίες.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Θα πρέπει να εισαγάγετε το PIN σας. Στο μπροστινό μέρος του τερματικού POS υπάρχει ένα κάλυμμα με οπές, τις οποίες μπορείτε να χρησιμοποιήσετε για καθοδήγηση. Υπάρχουν δέκα οπές για αριθμούς και τρεις για λειτουργίες. Πατήστε μέσα σε αυτές τις οπές για να εισαγάγετε τον κωδικό σας. Μετά από κάθε ψηφίο που εισάγετε ακούγεται ένα ηχητικό σήμα. Οι τρεις στρογγυλές οπές για τα κουμπιά λειτουργιών βρίσκονται στην ακραία δεξιά στήλη. Στο πάνω μέρος βρίσκεται το κουμπί που ακυρώνει την πληρωμή. Κάτω από αυτό βρίσκεται το κουμπί εκκαθάρισης, το οποίο διαγράφει την πιο πρόσφατη καταχώρισή σας. Και κάτω από αυτό βρίσκεται το κουμπί επιβεβαίωσης. Οι αριθμοί στο πληκτρολόγιο βρίσκονται στις τρεις πιο αριστερές στήλες, οι οποίες έχουν τετράγωνες οπές. Το πληκτρολόγιο έχει διάταξη τηλεφώνου, ξεκινώντας με 1, 2 και 3 από αριστερά προς τα δεξιά στο επάνω μέρος. Εισαγάγετε τώρα τον κωδικό PIN σας και, στη συνέχεια, πατήστε το κουμπί επιβεβαίωσης.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Θα πρέπει να εισαγάγετε το PIN σας. Στο μπροστινό μέρος του τερματικού POS υπάρχει ένα κάλυμμα με οπές, τις οποίες μπορείτε να χρησιμοποιήσετε για καθοδήγηση. Υπάρχουν δέκα οπές για αριθμούς και τρεις για λειτουργίες. Πατήστε μέσα σε αυτές τις οπές για να εισαγάγετε τον κωδικό σας. Μετά από κάθε ψηφίο που εισάγετε ακούγεται ένα ηχητικό σήμα. Με το επάνω δεξιό κουμπί μπορείτε να ακυρώσετε την πληρωμή. Κάτω από αυτό εμφανίζονται οι αριθμοί 1 έως 9 σε μια τηλεφωνική διάταξη τριών σειρών, αρχίζοντας με το 1, 2 και 3 από αριστερά προς δεξιά στην κορυφή. Στην 4η σειρά, κάτω αριστερά, υπάρχει το κουμπί εκκαθάρισης, το οποίο διαγράφει την πιο πρόσφατη καταχώρησή σας. Ο αριθμός μηδέν βρίσκεται στο κέντρο αυτής της σειράς και το κουμπί επιβεβαίωσης βρίσκεται στα δεξιά. Εισαγάγετε τώρα τον κωδικό PIN σας και, στη συνέχεια, πατήστε το κουμπί επιβεβαίωσης.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Η συναλλαγή ήταν επιτυχής. Αφαιρέστε την κάρτα.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "Ο κωδικός PIN είναι λανθασμένος. Προσπαθήστε ξανά.";
 

@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Mostrar como método de pagamento durante o checkout";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Habilitar SumUp Top";
+"card_reader_setting_no_reader_cta" = "Receba pagamentos com cartão";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_button" = "Conectar maquininha";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Comece a receber pagamentos por cartão";
+"card_reader_setting_no_reader_cta_generic" = "Receba pagamentos com cartão";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Habilitar SumUp Top";
+"card_reader_setting_no_reader_cta_model" = "Ative sua SumUp Top";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Trocar para outra maquininha";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Pronta";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "O dispositivo está no modo de acessibilidade. Você será guiado durante a transação.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "A transação não foi concluída, e o cartão não foi cobrado. Tente novamente.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "A transação não foi concluída porque a senha inserida estava incorreta. Tente novamente.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "O valor devido é %1$@ %2$@. Para pagar, escolha uma das duas opções a seguir. Se quiser fazer um pagamento por aproximação, coloque o seu cartão na maquininha. O dispositivo emitirá um sinal sonoro uma vez quando o cartão for reconhecido. Ou pague inserindo o chip do seu cartão, virado para cima, no compartimento situado na parte superior da maquininha e siga as instruções faladas.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Você deverá inserir sua senha. Na parte frontal da maquininha, há uma tampa com orifícios que vão guiar você. Há dez orifícios para dígitos e três para funções. Pressione esses orifícios para inserir sua senha. Um sinal sonoro será emitido após cada dígito que você apertar. Os três orifícios redondos para os botões de função estão localizados na coluna mais à direita. No topo está o botão que cancelará o pagamento. Abaixo dele, está o botão Limpar, que exclui sua inserção mais recente. Abaixo, está o botão de confirmação. Os números no teclado estão nas três colunas mais à esquerda, que têm orifícios quadrados. O teclado tem uma disposição telefônica, começando com 1, 2 e 3 da esquerda para a direita no topo. Insira sua senha agora e pressione o botão confirmar.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Você deverá inserir sua senha. Na parte frontal da maquininha, há uma tampa com orifícios que vão guiar você. Há dez orifícios para dígitos e três para funções. Pressione esses orifícios para inserir sua senha. Um sinal sonoro será emitido após cada dígito que você apertar. O botão superior direito cancela o pagamento. Abaixo dele estão os números de 1 a 9 numa disposição telefônica de três fileiras, começando com 1, 2 e 3 da esquerda para a direita no topo. Na quarta linha no canto inferior esquerdo encontra-se o botão Limpar, que exclui a sua inserção mais recente. O número zero está no centro dessa linha, e o botão de confirmação está à direita. Insira sua senha agora e pressione o botão confirmar.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "A transação foi realizada com sucesso. Remova o cartão.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "A senha está incorreta. Tente novamente.";
 

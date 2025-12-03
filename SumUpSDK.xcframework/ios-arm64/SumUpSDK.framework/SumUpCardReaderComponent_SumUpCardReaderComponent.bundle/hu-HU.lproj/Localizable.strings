@@ -14,16 +14,16 @@
 "card_reader_setting_enable_subtitle" = "Jelenítse meg fizetési módként a fizetés során";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Kezdje el a kártyás fizetések fogadását";
+"card_reader_setting_no_reader_cta" = "Kártyás fizetések fogadása";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Eszköz csatlakoztatása";
+"card_reader_setting_no_reader_cta_button" = "Csatlakoztatás";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Kezdje el a kártyás fizetések fogadását";
+"card_reader_setting_no_reader_cta_generic" = "Kártyás fizetések fogadása";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_model" = "Kezdje el a Solo kártyaolvasó használatát";
+"card_reader_setting_no_reader_cta_model" = "A Solo kártyaolvasó használata";
 
 /* Button to perform a bluetooth scan for card readers even though one or more card readers are already configured */
 "card_reader_setting_switch_card_readers" = "Váltás másik kártyaolvasóra";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Használatra kész";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Az eszköz kisegítő lehetőségeket kínáló módban van. Végigvezetik a tranzakción.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "A tranzakció sikertelen, és a kártyát nem terheltük meg. Próbálja újra.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "A tranzakció sikertelen volt, mert a megadott PIN-kód hibás. Próbálja újra.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Az esedékes összeg %1$@ %2$@. Válassza az alábbi két lehetőség egyikét a fizetéshez. Ha érintés nélküli fizetést szeretne végrehajtani, érintse a kártyáját a kártyaolvasóhoz. Hangjelzés hallgató, amikor az eszköz felismeri a kártyáját. Vagy fizethet úgy, hogy chippel előre és az elülső oldallal felfelé behelyezi a kártyaolvasó tetején található nyílásba – ebben az esetben kövesse az elhangzott utasításokat.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Meg kell adnia a PIN-kódot. A kártyaolvasó előlapján egy mélyedésekkel ellátott burkolat található, amely segít Önnek. Tíz mélyedés a számjegyek számára, három pedig a funkciók számára. Használja ezeket a mélyedéseket a PIN-kód megadásához. Minden sikeresen megadott számjegyet hangjelzés követ. A funkciógombok három kerek mélyedése a jobb oldali oszlopban található. A felső gombbal szakíthatja meg a fizetést. Alatta található a törlés gomb, amely törli a legutóbb megadott számjegyet. Alatta pedig a megerősítés gomb. A számok a billentyűzeten a bal szélső három oszlopban találhatók, és négyszögletű mélyedéssel rendelkeznek. A billentyűzet telefonra emlékeztető elrendezéssel rendelkezik, amely az 1-es, 2-es és 3-as számokkal kezdődik balról jobbra a felső részen. Adja meg a PIN-kódot most, majd nyomja meg a megerősítés gombot.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Meg kell adnia a PIN-kódot. A kártyaolvasó előlapján egy mélyedésekkel ellátott burkolat található, amely segít Önnek. Tíz mélyedés a számjegyek számára, három pedig a funkciók számára. Használja ezeket a mélyedéseket a PIN-kód megadásához. Minden sikeresen megadott számjegyet hangjelzés követ. A jobb felső gombbal megszakíthatja a fizetést. Alatta a számok 1-től 9-ig helyezkednek el egy három soros, telefonra emlékeztető elrendezésben, amely az 1-es, 2-es és 3-as számokkal kezdődik balról jobbra fent. A 4. sorban a bal alsó sarokban található a törlés gomb, amely törli a legutóbb megadott számjegyet. A nulla a sor közepén, a megerősítés gomb pedig a jobb oldalon található. Adja meg a PIN-kódot most, majd nyomja meg a megerősítés gombot.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "A tranzakció sikeres. Távolítsa el a kártyát.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "A PIN-kód helytelen. Próbálja újra.";
 

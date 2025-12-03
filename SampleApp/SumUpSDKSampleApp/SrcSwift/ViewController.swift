@@ -69,7 +69,7 @@ class ViewController: UIViewController {
     // MARK: - SumUpSDK interactions
 
     private func presentCheckoutPreferences() {
-        SumUpSDK.presentCheckoutPreferences(from: self, animated: true) { [weak self] (success: Bool, presentationError: Error?) in
+        SumUpSDK.presentCardReaderSettings(from: self, animated: true) { [weak self] (success: Bool, presentationError: Error?) in
             print("Did present checkout preferences with success: \(success). Error: \(String(describing: presentationError))")
 
             guard let safeError = presentationError as NSError? else {

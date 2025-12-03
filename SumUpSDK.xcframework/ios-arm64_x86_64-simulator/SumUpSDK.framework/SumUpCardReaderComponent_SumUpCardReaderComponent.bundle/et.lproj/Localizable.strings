@@ -17,7 +17,7 @@
 "card_reader_setting_no_reader_cta" = "Kaardimaksetega alustamine";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Ühendan kaardilugeja";
+"card_reader_setting_no_reader_cta_button" = "Ühenda makseterminal";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_generic" = "Kaardimaksetega alustamine";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Valmis";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "Seade on hõlbustusrežiimis. Teid juhendatakse tehingu tegemise jooksul.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "Tehing nurjus ja kaardilt raha ei võetud. Palun proovige uuesti.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "Tehing nurjus, sest sisestatud PIN oli vale. Palun proovige uuesti.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "Tasuda tuleb %1$@ %2$@. Maksmiseks valige üks kahest järgmisest variandist. Kui soovite teha viipemakse, puudutage oma kaardiga makseterminali. Seade teeb ühe piiksu, kui on teie kaardi tuvastanud. Teise variandina võite sisestada kaardi kiip ees ja üleval makseterminali ülaosas olevasse kaardipilusse. Seejärel järgige makseterminali hääljuhiseid.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Peate sisestama oma PIN-koodi. Makseterminali esiküljel on avadega kate, mis aitab teil seda teha. Kattel on kümme auku numbrite jaoks ja kolm auku funktsioonide jaoks. Vajutage sõrmega nende aukude sees ekraanile, et sisestada oma PIN-kood. Iga sisestatud numbri järel kõlab piiks. Kõige parempoolsemas veerus on kolm ümmargust auku funktsiooninuppude jaoks. Ülemine nupp tühistab makse. Keskmine nupp on tühjendamisnupp, mis kustutab viimati sisestatud numbri. Alumine nupp on kinnitamisnupp. Numbrid on klahvistikul kolmes veerus vasakul ruudukujulistes aukudes. Klahvistik on telefonile sarnase paigutusega ning algab numbritega 1, 2, 3 vasakult-paremale ülemises reas. Palun sisestage nüüd oma PIN ja vajutage seejärel kinnitamisnuppu.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Peate sisestama oma PIN-koodi. Makseterminali esiküljel on avadega kate, mis aitab teil seda teha. Kattel on kümme auku numbrite jaoks ja kolm auku funktsioonide jaoks. Vajutage sõrmega nende aukude sees ekraanile, et sisestada oma PIN-kood. Iga sisestatud numbri järel kõlab piiks. Ülemine parempoolne nupp tühistab makse. Selle all on telefonile sarnaselt numbrid 1 kuni 9 kolmes reas, mis algab numbritega 1, 2 ja 3 vasakult-paremale ülemises reas. Neljandas reas vasakul on tühjendusnupp, mis kustutab viimati sisestatud numbri. Null on samas reas keskmiseks nupuks ja sellest paremal on kinnitamisnupp. Palun sisestage nüüd oma PIN ja vajutage seejärel kinnitamisnuppu.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "Tehing õnnestus. Palun eemaldage kaart.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "PIN on vale. Palun proovige uuesti.";
 

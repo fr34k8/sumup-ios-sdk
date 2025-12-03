@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Schakel 'Tap to Pay' nu in of doe dat later via uw SumUp-profiel";
 
+"sumup_tap_or_insert_card" = "Houd de pas tegen het apparaat of plaats hem erin";
+
 "sumup_tap_os_check_alert_message" = "Je hebt iOS-versie %1$@ of hoger nodig om deze functie te kunnen gebruiken";
 
 "sumup_tap_os_check_alert_settings_button" = "Instellingen";
@@ -386,6 +388,8 @@
 "sumup_tap_subaccount_check_alert_message" = "Helaas is mag u met uw werknemersaccount Tap to Pay niet activeren.\n\nNeem contact op met de rekeninghouder van het SumUp-profiel om Tap to Pay te activeren en probeer het nog eens.";
 
 "sumup_tap_subaccount_check_alert_title" = "Kan niet als werknemersaccount worden geactiveerd";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Servicevoorwaarden zijn al geaccepteerd";
 

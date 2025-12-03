@@ -126,7 +126,7 @@
 
 "sumup_tap_learn_more_present_to_customer" = "Ask your customer to hold their card as shown";
 
-"sumup_tap_learn_more_price" = "€ 17,50";
+"sumup_tap_learn_more_price" = "€17.50";
 
 "sumup_tap_learn_more_ttpoi" = "Tap to Pay on iPhone";
 
@@ -337,6 +337,8 @@
 /* Title of the step turn on tap to pay on the tutorial walkthrough screen */
 "sumup_tap_on_phone_walkthrough_step_turn_on_ttp" = "Turn on ‘Tap to Pay’ now, or do it later in your SumUp profile";
 
+"sumup_tap_or_insert_card" = "Please tap or insert card";
+
 "sumup_tap_os_check_alert_message" = "You need iOS version %1$@ or later to use this feature";
 
 "sumup_tap_os_check_alert_settings_button" = "Settings";
@@ -383,9 +385,11 @@
 
 "sumup_tap_starting" = "Starting";
 
-"sumup_tap_subaccount_check_alert_message" = "Unfortunately your Employee account is not authorised to activate Tap to Pay.\n\nPlease contact the main SumUp account owner to activate and then try again.";
+"sumup_tap_subaccount_check_alert_message" = "Unfortunately, your employee account is not authorized to activate Tap to Pay.\n\nPlease contact the main SumUp account owner to activate and then try again.";
 
-"sumup_tap_subaccount_check_alert_title" = "Cannot activate as an Employee account";
+"sumup_tap_subaccount_check_alert_title" = "Cannot activate as an employee account";
+
+"sumup_tap_to_pay_customer_phone_instructions_title" = "Customer's phone requires action to complete the payment.";
 
 "sumup_tap_tos_already_accepted" = "Terms of Service have already been accepted";
 

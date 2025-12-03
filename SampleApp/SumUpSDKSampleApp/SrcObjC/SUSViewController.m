@@ -52,13 +52,13 @@
 }
 
 - (IBAction)buttonOpenPreferencesTapped:(id)sender {
-    [SMPSumUpSDK presentCheckoutPreferencesFromViewController:self
-                                                     animated:YES
-                                                   completion:^(BOOL success, NSError *_Nullable error) {
-                                                       if (!success || error) {
-                                                           [self showResultsString:@"not logged in"];
-                                                       }
-                                                   }];
+    [SMPSumUpSDK presentCardReaderSettingsFromViewController:self
+                                                    animated:YES
+                                                  completion:^(BOOL success, NSError *_Nullable error) {
+                                                      if (!success || error) {
+                                                          [self showResultsString:@"not logged in"];
+                                                      }
+                                                  }];
 }
 
 - (IBAction)buttonChargeTapped:(id)sender {

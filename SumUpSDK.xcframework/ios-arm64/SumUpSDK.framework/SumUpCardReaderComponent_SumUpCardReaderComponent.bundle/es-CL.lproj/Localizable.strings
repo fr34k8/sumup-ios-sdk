@@ -14,13 +14,13 @@
 "card_reader_setting_enable_subtitle" = "Mostrar como forma de pago al cobrar";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta" = "Comienza a usar pagos con tarjeta";
+"card_reader_setting_no_reader_cta" = "Activa los pagos con tarjeta";
 
 /* Call to action button on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_button" = "Conectar máquina de pago";
+"card_reader_setting_no_reader_cta_button" = "Conectar el lector";
 
 /* Call to action text shown on the card that appears when the user has not configured any card reader yet */
-"card_reader_setting_no_reader_cta_generic" = "Comienza a aceptar pagos con tarjeta";
+"card_reader_setting_no_reader_cta_generic" = "Activa los pagos con tarjeta";
 
 /* For Brazilian users - call to action text shown on the card that appears when the user has not configured any card reader yet */
 "card_reader_setting_no_reader_cta_model" = "Comienza a usar SumUp Solo";
@@ -221,4 +221,28 @@
 
 /* Title of the reader Ready state in card reader component */
 "sumup_saved_reader_home_item_status_is_ready" = "Listo";
+
+/* Message to confirm Text-to-Speech is activated */
+"sumup_text_to_speech_activation_message" = "El equipo está en modo de accesibilidad. Serás guiado durante la transacción.";
+
+/* Text-to-Speech to report a failed transaction */
+"sumup_text_to_speech_failed_transaction" = "La transacción no se completó y no se realizó el cargo en la tarjeta. Inténtalo de nuevo.";
+
+/* Text-to-Speech to report a failed transaction for wrong PIN */
+"sumup_text_to_speech_failed_transaction_pin" = "La transacción no se realizó porque el PIN ingresado es incorrecto. Inténtalo de nuevo.";
+
+/* Text-to-Speech to introduce the transaction to the customer */
+"sumup_text_to_speech_reader_instructions" = "El monto a pagar es %1$@ %2$@. Para pagar, elige una de las dos opciones a continuación. Si deseas hacer un pago sin contacto, acerca tu tarjeta al lector. El equipo emitirá un pitido cuando se detecte tu tarjeta. O paga insertando tu tarjeta con el chip hacia arriba en la ranura en la parte superior del lector, y sigue las instrucciones por voz.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo Lite */
+"sumup_text_to_speech_solo_lite_pin_instructions" = "Necesitarás ingresar tu PIN. En la parte frontal del lector, hay una cubierta con agujeros que te sirven de guía. Hay diez agujeros para los dígitos y tres para las funciones. Ingresa tu PIN presionando en estos agujeros. Sonará un pitido por cada número que ingreses. Los tres agujeros redondos para los botones de funciones se encuentran en la columna más a la derecha. El botón que está en la parte superior cancelará el pago. Debajo de este, está el botón de borrar, que elimina tu última cifra ingresada. Y debajo de este, está el botón de confirmar. Los números en el teclado están en las tres columnas más a la izquierda, que tienen agujeros cuadrados. El teclado tiene un diseño de teléfono, comenzando con 1, 2 y 3 de izquierda a derecha en la parte superior. Ingresa tu PIN ahora y luego presiona el botón de confirmar.";
+
+/* Text-to-Speech to ask for PIN during a transaction using Solo */
+"sumup_text_to_speech_solo_pin_instructions" = "Necesitarás ingresar tu PIN. En la parte frontal del lector, hay una cubierta con agujeros que te sirven de guía. Hay diez agujeros para los dígitos y tres para las funciones. Ingresa tu PIN presionando en estos agujeros. Sonará un pitido por cada número que ingreses. El botón en la parte superior derecha cancela el pago. Debajo de este, se encuentran los números del 1 al 9 en un formato de teléfono, distribuidos en tres filas, comenzando con el 1, 2 y 3 de izquierda a derecha en la parte superior. En la cuarta fila, en la parte inferior izquierda, se encuentra el botón de \"borrar\", que elimina el último número ingresado. El número cero está en el centro de esta fila, y el botón de confirmar está a la derecha. Ingresa tu PIN ahora y luego presiona el botón de confirmar.";
+
+/* Text-to-Speech to confirm transaction was successful */
+"sumup_text_to_speech_transaction_success" = "La transacción se realizó con éxito. Por favor, retira la tarjeta.";
+
+/* Text-to-Speech message when the entered PIN is wrong */
+"sumup_text_to_speech_wrong_pin" = "El PIN es incorrecto. Inténtalo de nuevo.";
 
