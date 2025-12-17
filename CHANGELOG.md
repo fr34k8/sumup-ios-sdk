@@ -1,5 +1,10 @@
 # SumUp iOS SDK Changelog
 
+## Version 6.2.1
+
+* [IMPROVEMENT] Fixed: when using the SDK in an app built with Xcode 26, the Card Reader Settings screen does not respond to taps.
+* [IMPROVEMENT] Removed shared button on the receipt screen. This button crashed on tap and wasn't supposed to be part of the view hierarchy.
+
 ## Version 6.2.0
 
 * [IMPROVEMENT] The tap-card screen now appears much faster when using Solo Lite and Solo card readers with updated firmware
